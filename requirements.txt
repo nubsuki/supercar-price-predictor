@@ -1,0 +1,16 @@
+# Web Framework
+Flask
+
+# Data Science and Machine Learning
+pandas
+numpy
+scikit-learn
+joblib
+
+# Advanced ML Libraries
+xgboost
+lightgbm
+
+# Data Visualization
+matplotlib
+seaborn
