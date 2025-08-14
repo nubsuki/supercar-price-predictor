@@ -48,6 +48,28 @@
             border-radius: 10px;
             margin-bottom: 30px;
         }
+        .auto-fill-info {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+            display: none;
+        }
+        .btn-auto-fill {
+            background: linear-gradient(135deg, #4facfe, #00f2fe);
+            border: none;
+            padding: 8px 16px;
+            color: white;
+            font-weight: 600;
+            border-radius: 5px;
+            margin-left: 10px;
+        }
+        .btn-auto-fill:hover {
+            background: linear-gradient(135deg, #3d8bfe, #00d4fe);
+            color: white;
+        }
     </style>
 </head>
 <body>
@@ -75,6 +97,15 @@
 
                 <div class="card">
                     <div class="card-body p-4">
+                        <div class="auto-fill-info" id="autoFillInfo">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <span id="autoFillMessage">Select a brand and model to auto-fill typical specifications</span>
+                                <button type="button" class="btn btn-auto-fill btn-sm" id="autoFillBtn" onclick="autoFillSpecs()">
+                                    Auto-Fill Specs
+                                </button>
+                            </div>
+                        </div>
+
                         <form id="predictionForm">
                             <div class="row">
                                 <!-- Basic Info -->
@@ -85,7 +116,7 @@
                                 
                                 <div class="col-md-6 mb-3">
                                     <label class="form-label">Brand</label>
-                                    <select class="form-select" name="brand" required>
+                                    <select class="form-select" name="brand" id="brandSelect" required onchange="onBrandChange()">
                                         <option value="">Select Brand</option>
                                         <option value="McLaren">McLaren</option>
                                         <option value="Ferrari">Ferrari</option>
@@ -103,7 +134,9 @@
 
                                 <div class="col-md-6 mb-3">
                                     <label class="form-label">Model</label>
-                                    <input type="text" class="form-control" name="model" placeholder="e.g., 720S, F8, Huracan" required>
+                                    <select class="form-select" name="model" id="modelSelect" required onchange="onModelChange()">
+                                        <option value="">Select Brand First</option>
+                                    </select>
                                 </div>
 
                                 <div class="col-md-6 mb-3">
@@ -177,6 +210,7 @@
                                         <option value="automatic">Automatic</option>
                                         <option value="manual">Manual</option>
                                         <option value="semi-automatic">Semi-Automatic</option>
+                                        <option value="dual-clutch">Dual-Clutch</option>
                                     </select>
                                 </div>
 
@@ -221,6 +255,7 @@
                                         <option value="suede">Suede</option>
                                         <option value="alcantara">Alcantara</option>
                                         <option value="fabric">Fabric</option>
+                                        <option value="carbon_fiber">Carbon Fiber</option>
                                     </select>
                                 </div>
 
@@ -349,6 +384,8 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
+        let currentModelSpecs = null;
+
         // Show/hide damage details
         document.getElementById('damage').addEventListener('change', function() {
             const damageDetails = document.getElementById('damageDetails');
@@ -360,6 +397,136 @@
                 document.querySelector('select[name="damage_type"]').value = 'none';
             }
         });
+
+        // Brand change handler
+        async function onBrandChange() {
+            const brandSelect = document.getElementById('brandSelect');
+            const modelSelect = document.getElementById('modelSelect');
+            const autoFillInfo = document.getElementById('autoFillInfo');
+            
+            const selectedBrand = brandSelect.value;
+            
+            // Reset model select
+            modelSelect.innerHTML = '<option value="">Loading models...</option>';
+            autoFillInfo.style.display = 'none';
+            currentModelSpecs = null;
+            
+            if (!selectedBrand) {
+                modelSelect.innerHTML = '<option value="">Select Brand First</option>';
+                return;
+            }
+            
+            try {
+                const response = await fetch(`/api/models/${selectedBrand}`);
+                const models = await response.json();
+                
+                modelSelect.innerHTML = '<option value="">Select Model</option>';
+                
+                models.forEach(model => {
+                    const option = document.createElement('option');
+                    option.value = model.name;
+                    option.textContent = `${model.name} (${model.count} data points)`;
+                    modelSelect.appendChild(option);
+                });
+                
+            } catch (error) {
+                console.error('Error loading models:', error);
+                modelSelect.innerHTML = '<option value="">Error loading models</option>';
+            }
+        }
+
+        // Model change handler
+        async function onModelChange() {
+            const brandSelect = document.getElementById('brandSelect');
+            const modelSelect = document.getElementById('modelSelect');
+            const autoFillInfo = document.getElementById('autoFillInfo');
+            const autoFillMessage = document.getElementById('autoFillMessage');
+            
+            const selectedBrand = brandSelect.value;
+            const selectedModel = modelSelect.value;
+            
+            if (!selectedBrand || !selectedModel) {
+                autoFillInfo.style.display = 'none';
+                currentModelSpecs = null;
+                return;
+            }
+            
+            try {
+                const response = await fetch(`/api/model-specs/${selectedBrand}/${selectedModel}`);
+                const data = await response.json();
+                
+                if (data.specs) {
+                    currentModelSpecs = data.specs;
+                    autoFillMessage.textContent = data.message;
+                    autoFillInfo.style.display = 'block';
+                } else {
+                    autoFillInfo.style.display = 'none';
+                    currentModelSpecs = null;
+                }
+                
+            } catch (error) {
+                console.error('Error loading model specs:', error);
+                autoFillInfo.style.display = 'none';
+                currentModelSpecs = null;
+            }
+        }
+
+        // Auto-fill specifications
+        function autoFillSpecs() {
+            if (!currentModelSpecs) {
+                alert('No specifications available for auto-fill');
+                return;
+            }
+            
+            // Fill numeric fields
+            const numericFields = ['horsepower', 'torque', 'weight_kg', 'zero_to_60_s', 'top_speed_mph', 
+                                 'num_doors', 'mileage', 'num_owners', 'warranty_years'];
+            
+            numericFields.forEach(field => {
+                if (currentModelSpecs[field] !== undefined) {
+                    const input = document.querySelector(`input[name="${field}"], select[name="${field}"]`);
+                    if (input) {
+                        input.value = currentModelSpecs[field];
+                    }
+                }
+            });
+            
+            // Fill select fields
+            const selectFields = ['engine_config', 'transmission', 'drivetrain', 'interior_material', 
+                                'brake_type', 'tire_brand'];
+            
+            selectFields.forEach(field => {
+                if (currentModelSpecs[field] !== undefined) {
+                    const select = document.querySelector(`select[name="${field}"]`);
+                    if (select) {
+                        select.value = currentModelSpecs[field];
+                    }
+                }
+            });
+            
+            // Fill checkbox fields
+            const checkboxFields = ['carbon_fiber_body', 'aero_package', 'limited_edition'];
+            
+            checkboxFields.forEach(field => {
+                if (currentModelSpecs[field] !== undefined) {
+                    const checkbox = document.querySelector(`input[name="${field}"]`);
+                    if (checkbox) {
+                        checkbox.checked = currentModelSpecs[field] === 1;
+                    }
+                }
+            });
+            
+            // Show success message
+            const autoFillMessage = document.getElementById('autoFillMessage');
+            const originalMessage = autoFillMessage.textContent;
+            autoFillMessage.textContent = 'Specifications auto-filled successfully!';
+            autoFillMessage.style.color = '#00ff88';
+            
+            setTimeout(() => {
+                autoFillMessage.textContent = originalMessage;
+                autoFillMessage.style.color = 'white';
+            }, 3000);
+        }
 
         // Form submission
         document.getElementById('predictionForm').addEventListener('submit', async function(e) {
