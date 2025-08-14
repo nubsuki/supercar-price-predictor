@@ -1,0 +1,64 @@
+{
+  "categorical_cols": [
+    "brand",
+    "color",
+    "engine_config",
+    "transmission",
+    "drivetrain",
+    "market_region",
+    "interior_material",
+    "brake_type",
+    "tire_brand",
+    "service_history",
+    "model",
+    "damage_type"
+  ],
+  "numerical_cols": [
+    "year",
+    "carbon_fiber_body",
+    "horsepower",
+    "torque",
+    "weight_kg",
+    "zero_to_60_s",
+    "top_speed_mph",
+    "num_doors",
+    "mileage",
+    "num_owners",
+    "aero_package",
+    "limited_edition",
+    "has_warranty",
+    "non_original_parts",
+    "warranty_years",
+    "damage",
+    "damage_cost",
+    "days_since_service"
+  ],
+  "best_model": "RandomForest",
+  "model_performance": [
+    {
+      "Model": "RandomForest",
+      "RMSE": 394628.1888472131,
+      "R2": 0.8662666411167015
+    },
+    {
+      "Model": "LinearRegression",
+      "RMSE": 397235.2833952666,
+      "R2": 0.8644937966534074
+    },
+    {
+      "Model": "MLPRegressor",
+      "RMSE": 1076080.7422149975,
+      "R2": 0.005617981117023718
+    },
+    {
+      "Model": "XGBoost",
+      "RMSE": 416154.0389623805,
+      "R2": 0.8512791797561832
+    },
+    {
+      "Model": "LightGBM",
+      "RMSE": 417847.5284538333,
+      "R2": 0.8500663134903107
+    }
+  ]
+}
