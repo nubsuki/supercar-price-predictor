@@ -1,0 +1,501 @@
+year,brand,color,carbon_fiber_body,engine_config,horsepower,torque,weight_kg,zero_to_60_s,top_speed_mph,num_doors,transmission,drivetrain,market_region,mileage,num_owners,interior_material,brake_type,tire_brand,aero_package,limited_edition,has_warranty,last_service_date,service_history,non_original_parts,model,warranty_years,damage,damage_cost,damage_type,id
+2025,Aston Martin,Yellow,0,V12,1037,720,2285,2.94,247,2,manual,AWD,North America,14734,1,carbon_fiber,carbon-ceramic,Bridgestone,0,0,1,2024-07-23,independent,0,Valhalla,5,1,92320.0,minor,N4C4A2ICG2
+2024,McLaren,Black,0,V10,831,490,1286,2.37,262,2,automatic,RWD,North America,12294,2,alcantara,steel,Michelin,1,0,1,2024-10-29,authorized,0,600LT,3,0,,,aIB01tNqkz
+2025,Bugatti,White,1,Electric,792,714,1810,3.09,244,2,automatic,RWD,Europe,13216,1,alcantara,carbon-ceramic,Pirelli,0,0,0,2024-10-07,independent,0,Veyron,0,0,,,0AX3BsniiV
+2021,Bugatti,Silver,0,V12,1229,511,2347,2.64,205,2,automatic,RWD,Middle East,1976,1,suede,carbon-ceramic,Goodyear,0,0,0,2025-05-18,authorized,0,Veyron,0,0,,,3J6iupWk0z
+2023,Lamborghini,Black,1,Electric,535,512,1845,3.86,244,4,dual-clutch,RWD,Middle East,15290,2,suede,carbon-ceramic,Goodyear,0,0,1,2024-12-03,authorized,0,Huracan,3,1,67822.0,totaled,7atXIEFcBF
+2025,Lamborghini,Black,1,V8,1544,1109,1482,3.64,231,2,dual-clutch,RWD,Europe,13331,1,alcantara,carbon-ceramic,Michelin,1,0,0,2025-05-13,authorized,0,Urus,0,1,39838.0,minor,WyJw2DqzQE
+2024,Aston Martin,Blue,1,V12,744,773,1713,2.62,267,2,manual,RWD,Asia,17037,3,alcantara,carbon-ceramic,Bridgestone,1,1,0,2025-02-20,authorized,0,Vantage,0,1,60193.0,major,9aMvoG3vO4
+2025,McLaren,Yellow,0,Electric,553,662,2101,2.04,202,2,automatic,RWD,North America,6286,2,alcantara,carbon-ceramic,Pirelli,0,0,0,2025-03-04,authorized,0,P1,0,0,,,CzPv0kD3kJ
+2025,Pagani,White,0,V8,675,767,2028,4.0,201,2,dual-clutch,RWD,Middle East,3793,3,carbon_fiber,steel,Bridgestone,0,0,0,2024-11-26,authorized,0,Huayra,0,1,77105.0,major,v0ICmaxqMH
+2020,Pagani,Blue,0,Electric,689,777,1356,3.37,219,2,dual-clutch,AWD,Asia,8674,1,carbon_fiber,steel,Pirelli,0,0,0,2025-06-09,authorized,0,Zonda,0,0,,,VaEiXDMWdT
+2023,Bugatti,Green,0,V12,1306,1073,1425,2.85,238,2,automatic,AWD,Europe,18044,1,carbon_fiber,carbon-ceramic,Continental,0,0,1,2025-06-01,authorized,0,Veyron,4,1,94356.0,totaled,F2POAVgsoD
+2022,Lamborghini,Orange,1,V8,1115,995,2032,2.58,211,2,dual-clutch,RWD,Europe,10730,2,suede,carbon-ceramic,Continental,0,0,0,2024-11-28,none,0,Sian,0,0,,,EzfjpLzRgl
+2020,Aston Martin,Blue,1,Electric,567,956,1465,2.01,260,2,automatic,AWD,Middle East,11584,2,leather,carbon-ceramic,Bridgestone,1,0,1,2024-11-18,authorized,0,Valhalla,2,1,21703.0,major,ZuS86DLduU
+2024,Lamborghini,Silver,0,W16,823,444,1672,2.31,235,2,automatic,RWD,Middle East,17334,1,carbon_fiber,steel,Goodyear,0,0,0,2025-03-06,authorized,0,Sian,0,0,,,IA3iXoue79
+2025,Pagani,Blue,0,V12,953,670,1598,2.01,208,4,automatic,AWD,Europe,8603,2,carbon_fiber,carbon-ceramic,Bridgestone,0,0,0,2025-05-16,authorized,0,Huayra,0,1,57412.0,totaled,yHCvHYZAZH
+2022,Bugatti,White,1,V12,725,894,2296,3.2,243,2,manual,AWD,Middle East,16737,1,alcantara,steel,Pirelli,0,0,0,2024-08-19,independent,0,Veyron,0,0,,,SWBqGWfSI0
+2025,Pagani,Black,1,V12,603,1121,1727,3.33,252,2,dual-clutch,AWD,Middle East,2479,3,carbon_fiber,carbon-ceramic,Bridgestone,0,1,1,2025-06-19,independent,0,Huayra,4,0,,,oy2aScA9b7
+2022,Pagani,White,1,Hybrid,965,1085,2306,3.53,229,2,manual,RWD,Middle East,4098,2,leather,steel,Bridgestone,0,0,0,2024-10-20,authorized,0,Zonda,0,0,,,0dzpczzpB1
+2022,McLaren,Yellow,0,V8,927,646,1373,2.37,265,2,automatic,RWD,Europe,4080,3,suede,carbon-ceramic,Pirelli,0,0,1,2025-05-18,authorized,0,P1,4,0,,,g9lqEBraad
+2023,Lamborghini,Green,1,V12,1492,573,2089,2.19,237,2,dual-clutch,RWD,North America,17482,2,carbon_fiber,steel,Goodyear,0,0,1,2024-11-18,independent,0,Huracan,1,0,,,E7SkK1haXH
+2024,McLaren,Silver,0,Electric,941,435,1490,3.3,237,2,dual-clutch,RWD,Asia,17731,3,suede,carbon-ceramic,Continental,1,0,0,2024-11-08,none,0,GT,0,0,,,xqjy28OcWQ
+2024,McLaren,Green,0,W16,1223,701,1580,3.0,232,2,manual,RWD,North America,1973,1,carbon_fiber,steel,Pirelli,0,1,0,2024-09-18,none,0,600LT,0,0,,,5K4Fi1rvjJ
+2025,Pagani,Orange,0,Electric,1559,557,1762,3.75,270,2,manual,RWD,Europe,17407,1,suede,carbon-ceramic,Bridgestone,0,0,0,2025-02-14,authorized,0,Huayra,0,0,,,S64ki6m0LH
+2023,Bugatti,Green,1,Electric,632,1050,1385,3.07,254,4,dual-clutch,AWD,Asia,1055,1,suede,carbon-ceramic,Michelin,0,1,1,2025-07-01,independent,0,Veyron,3,0,,,smZXin4z9l
+2024,Pagani,Silver,0,V12,1391,432,2228,2.89,222,2,manual,AWD,Europe,18914,1,carbon_fiber,carbon-ceramic,Bridgestone,0,0,1,2024-09-15,authorized,0,Zonda,4,0,,,NqrjP3Z2cZ
+2022,Koenigsegg,Orange,0,W16,895,1162,1378,2.98,269,2,manual,RWD,North America,18031,2,carbon_fiber,carbon-ceramic,Bridgestone,0,0,1,2025-01-27,independent,0,Regera,2,0,,,rhnxyNrHat
+2022,Bugatti,Yellow,1,W16,589,781,2365,3.56,213,2,automatic,RWD,Europe,14945,3,suede,steel,Michelin,0,0,0,2024-09-02,authorized,0,Veyron,0,1,55967.0,minor,1IdK4jAfyz
+2025,Aston Martin,Black,1,W16,754,823,1825,2.04,248,2,dual-clutch,AWD,Middle East,19204,2,leather,carbon-ceramic,Bridgestone,1,0,1,2024-09-28,authorized,0,Vantage,5,0,,,GsqAEKZsb6
+2022,Lamborghini,White,0,W16,1455,1082,1669,3.84,244,2,automatic,AWD,Middle East,7825,2,leather,steel,Michelin,0,0,0,2025-01-08,independent,0,Urus,0,0,,,BcyzZDMXNH
+2024,Koenigsegg,Black,1,V10,582,1021,2204,3.43,226,2,automatic,AWD,North America,7682,1,leather,steel,Bridgestone,0,1,0,2024-07-09,independent,0,Regera,0,0,,,rJvJdvkZzp
+2021,Koenigsegg,Black,0,W16,1150,1078,2200,3.77,266,2,dual-clutch,RWD,Middle East,19393,2,leather,steel,Goodyear,0,0,1,2025-01-21,independent,0,Jesko,2,1,19382.0,minor,ThMSNfI1U0
+2020,Koenigsegg,White,0,V12,1031,1036,2291,3.92,248,2,dual-clutch,RWD,North America,17185,3,carbon_fiber,carbon-ceramic,Continental,1,0,0,2024-10-27,authorized,0,Jesko,0,0,,,imwZexGxbe
+2021,Ferrari,Yellow,1,Hybrid,1340,1125,1306,2.45,201,2,automatic,AWD,Europe,341,2,alcantara,carbon-ceramic,Goodyear,0,0,1,2024-11-06,independent,0,Portofino,1,1,7772.0,minor,o3vwaugrnU
+2023,Lamborghini,White,0,W16,526,694,1770,3.16,259,2,dual-clutch,AWD,Europe,9588,3,suede,steel,Pirelli,1,0,0,2024-12-31,none,0,Huracan,0,0,,,c0r4BZeEu2
+2021,Pagani,Green,1,Electric,1514,1092,2254,2.97,265,2,automatic,AWD,North America,17693,1,leather,carbon-ceramic,Pirelli,0,0,0,2024-12-07,authorized,0,Zonda,0,1,25387.0,major,UmSUqKPxzt
+2025,Bugatti,Yellow,0,V10,878,994,1720,3.08,258,2,automatic,AWD,Asia,6703,1,leather,steel,Bridgestone,0,0,0,2024-09-20,authorized,0,Chiron,0,1,70536.0,minor,Z21mmHA6IB
+2021,Koenigsegg,Red,1,Electric,892,814,1854,2.09,259,4,manual,AWD,North America,16960,2,alcantara,steel,Pirelli,1,0,1,2024-12-12,independent,0,Jesko,3,0,,,AntR0kSGSN
+2025,Ferrari,Red,1,V12,716,718,1241,3.83,221,2,automatic,AWD,Asia,4028,3,alcantara,steel,Pirelli,0,0,1,2025-01-25,authorized,0,Portofino,2,0,,,k9roJ6GVXr
+2023,Koenigsegg,Red,0,V12,880,424,1796,3.91,245,2,dual-clutch,AWD,North America,18578,1,carbon_fiber,steel,Bridgestone,0,0,1,2024-11-09,independent,0,Agera,3,1,94710.0,minor,H67HzLRold
+2021,Bugatti,Green,0,Hybrid,1136,1157,2063,3.37,252,2,automatic,RWD,Europe,4050,1,suede,steel,Bridgestone,0,0,1,2025-06-26,independent,0,Chiron,5,1,11820.0,totaled,B2SnYqMslN
+2020,Aston Martin,Silver,1,Hybrid,1299,952,2047,2.52,218,2,automatic,RWD,Middle East,16381,2,suede,carbon-ceramic,Continental,0,0,1,2025-05-30,none,1,DB11,5,0,,,ShpK267xSV
+2024,Bugatti,Silver,0,W16,1007,833,1460,3.57,248,2,dual-clutch,AWD,North America,5416,3,alcantara,steel,Michelin,1,1,0,2025-05-24,none,0,Chiron,0,1,49845.0,major,oLq5ygigkT
+2023,Aston Martin,Orange,0,Hybrid,782,458,1870,3.46,216,2,dual-clutch,AWD,Asia,13660,1,alcantara,carbon-ceramic,Bridgestone,0,0,0,2025-02-03,authorized,0,DB11,0,1,83261.0,totaled,9dffZrc8an
+2021,Ferrari,Blue,1,V12,713,576,1895,3.15,226,2,manual,AWD,Middle East,8682,1,alcantara,steel,Continental,0,0,1,2024-08-24,authorized,0,SF90,5,0,,,OKIzB9V7t2
+2022,Ferrari,Orange,0,V10,1029,941,2028,2.34,218,2,dual-clutch,AWD,Asia,5106,3,carbon_fiber,carbon-ceramic,Goodyear,0,0,1,2024-11-16,authorized,0,Roma,2,0,,,x0vKtANJL1
+2022,Lamborghini,Yellow,0,Hybrid,1354,444,2290,2.4,229,2,automatic,AWD,Asia,18865,2,suede,steel,Pirelli,0,0,1,2024-07-18,authorized,0,Sian,4,0,,,mgMCJ0LNM6
+2023,McLaren,Yellow,1,Electric,1116,851,1419,3.18,245,2,dual-clutch,RWD,Asia,14120,2,alcantara,carbon-ceramic,Michelin,1,0,0,2025-06-24,authorized,0,P1,0,0,,,uEV8rlfzUr
+2022,Koenigsegg,White,1,V12,540,708,2063,2.26,263,2,dual-clutch,AWD,Asia,11552,1,leather,carbon-ceramic,Goodyear,1,1,1,2024-10-18,independent,0,Regera,2,0,,,puXLMb1ZcL
+2020,Ferrari,Yellow,1,Hybrid,1018,553,2282,3.45,231,4,manual,AWD,North America,17123,1,suede,carbon-ceramic,Bridgestone,0,0,0,2025-03-16,none,0,Portofino,0,1,6052.0,major,cogKVCQDEs
+2021,Koenigsegg,White,1,Hybrid,1528,951,1660,2.43,252,4,automatic,AWD,Middle East,15829,2,suede,steel,Goodyear,1,0,0,2025-06-30,none,0,Jesko,0,1,67939.0,major,NAAg7HBKvE
+2020,McLaren,Blue,0,V12,1544,539,1489,3.82,222,2,manual,AWD,Middle East,509,2,leather,steel,Continental,0,0,1,2024-09-10,authorized,0,GT,3,0,,,nguvvOcR2X
+2020,McLaren,White,1,V10,1145,1168,2335,3.8,235,2,manual,RWD,Middle East,593,1,leather,steel,Bridgestone,0,0,1,2025-05-10,independent,0,P1,4,0,,,G37ayOy9Pr
+2024,McLaren,Red,1,V8,1440,981,1381,2.59,209,2,automatic,RWD,Middle East,15248,3,suede,carbon-ceramic,Bridgestone,0,0,0,2025-04-21,independent,0,P1,0,1,41991.0,major,EicLNIBPu1
+2021,Aston Martin,White,0,V8,741,784,1665,2.17,258,4,dual-clutch,RWD,Europe,10719,3,suede,carbon-ceramic,Michelin,0,1,1,2025-03-06,authorized,1,Vantage,4,1,15828.0,major,wHCKdxilqt
+2023,McLaren,White,1,V10,1430,1047,1423,3.22,228,2,automatic,RWD,Europe,11859,1,alcantara,carbon-ceramic,Continental,1,0,0,2024-09-24,authorized,1,720S,0,0,,,QYpZdSjY3S
+2022,Ferrari,White,0,V12,605,1147,1597,2.9,210,2,manual,RWD,North America,12251,1,carbon_fiber,steel,Pirelli,0,0,0,2024-11-23,none,0,Portofino,0,0,,,LkQV4I5ru3
+2024,Koenigsegg,Yellow,1,V10,842,1023,2383,2.29,237,2,manual,RWD,Middle East,19386,1,carbon_fiber,steel,Goodyear,0,0,1,2025-04-03,authorized,0,Agera,1,1,37472.0,totaled,RMZ0cyEWnK
+2020,Bugatti,Black,1,V10,916,432,1653,3.06,231,2,automatic,RWD,Europe,8006,1,alcantara,steel,Michelin,1,0,0,2025-05-08,none,0,Chiron,0,0,,,3nUpvUAimd
+2022,Koenigsegg,Orange,0,V8,537,1107,1562,3.99,251,2,manual,AWD,Middle East,16488,2,leather,steel,Michelin,0,0,1,2025-05-30,independent,0,Regera,5,0,,,jW8wRTNWdU
+2021,Koenigsegg,Black,0,W16,835,770,1975,2.14,200,2,dual-clutch,RWD,North America,9784,3,leather,steel,Bridgestone,0,0,1,2025-05-15,authorized,0,Jesko,2,1,24987.0,totaled,D87KLAlm5w
+2020,Ferrari,Green,0,Hybrid,972,577,1874,2.53,213,2,dual-clutch,RWD,Asia,4883,3,leather,steel,Goodyear,0,1,1,2024-08-26,authorized,0,F8 Tributo,1,0,,,SvXxXpqawY
+2020,Ferrari,Black,0,V12,612,759,1202,3.08,202,2,automatic,RWD,North America,3822,3,leather,steel,Michelin,1,0,1,2024-08-06,authorized,0,F8 Tributo,3,1,72009.0,minor,ykz0JnGqJG
+2021,Pagani,Green,0,Electric,750,1045,1792,3.59,229,2,automatic,RWD,Europe,7754,2,alcantara,steel,Bridgestone,1,0,0,2024-07-20,independent,0,Zonda,0,1,37698.0,major,in9tFQeMLH
+2023,Pagani,Yellow,1,V10,1411,1102,1890,2.04,230,2,dual-clutch,RWD,Europe,5413,1,suede,steel,Bridgestone,0,0,0,2024-09-07,independent,0,Zonda,0,0,,,5TGQ72BQtM
+2024,Lamborghini,Red,1,V8,1594,835,2048,3.47,200,4,automatic,RWD,Europe,19226,3,alcantara,carbon-ceramic,Continental,1,0,1,2024-08-19,independent,0,Urus,1,0,,,uCR5cwiPfH
+2021,McLaren,Black,1,W16,763,405,1805,2.28,245,2,dual-clutch,AWD,North America,16776,3,leather,carbon-ceramic,Bridgestone,1,0,0,2024-09-14,independent,0,P1,0,0,,,63NMNi8dhj
+2022,McLaren,Black,0,V12,1398,1090,1928,3.66,213,2,dual-clutch,AWD,North America,10224,2,alcantara,steel,Pirelli,0,1,1,2024-07-24,none,0,GT,5,0,,,KwIsPf6OFr
+2022,Pagani,Silver,0,V10,1080,1194,1221,3.38,235,2,dual-clutch,AWD,North America,6565,1,carbon_fiber,steel,Continental,0,0,0,2024-09-03,authorized,0,Huayra,0,0,,,TNWrkDA1Es
+2020,Bugatti,Silver,0,V8,883,1017,1620,2.91,245,2,dual-clutch,AWD,Middle East,2200,1,carbon_fiber,carbon-ceramic,Continental,0,0,1,2025-01-21,independent,0,Veyron,1,1,20075.0,major,XoEIeqRBdt
+2025,Lamborghini,Blue,0,V10,1286,1157,2349,3.64,254,4,automatic,AWD,Europe,14372,1,leather,steel,Pirelli,0,0,0,2025-03-13,independent,0,Sian,0,1,96875.0,minor,qbaSelRCBV
+2024,Koenigsegg,Orange,0,Electric,1509,630,1467,3.47,235,2,dual-clutch,RWD,North America,8881,3,alcantara,carbon-ceramic,Pirelli,1,0,0,2024-12-07,authorized,0,Jesko,0,0,,,XhImFv1ocC
+2023,Bugatti,Orange,1,V12,1061,800,1814,3.52,242,2,dual-clutch,AWD,North America,13659,2,carbon_fiber,carbon-ceramic,Michelin,1,0,1,2024-11-29,none,0,Chiron,5,1,92337.0,major,8zuuWWw4Fw
+2023,Pagani,Silver,1,Hybrid,972,1126,1767,2.58,242,2,manual,RWD,Middle East,15529,3,suede,carbon-ceramic,Michelin,0,0,0,2024-12-11,independent,0,Huayra,0,1,31006.0,major,YnNmWXpm4k
+2025,Koenigsegg,Green,1,V12,560,1184,1938,3.24,214,2,manual,AWD,Europe,6090,2,leather,carbon-ceramic,Pirelli,1,0,1,2024-10-24,authorized,0,Regera,4,1,97597.0,minor,1t1HuW8bQ2
+2022,Bugatti,Green,0,V12,1581,1016,2329,2.28,237,2,manual,AWD,Asia,14645,2,alcantara,steel,Michelin,0,1,1,2024-10-26,none,0,Chiron,1,1,96900.0,totaled,YgLilzCeSo
+2023,McLaren,Orange,1,V12,1417,422,1855,3.64,243,2,manual,AWD,Asia,18044,3,leather,steel,Pirelli,0,0,0,2025-06-07,none,0,GT,0,0,,,SPAzk1SCci
+2022,Pagani,Blue,0,V8,1555,560,1744,3.05,254,2,automatic,AWD,Europe,11938,2,carbon_fiber,steel,Pirelli,0,0,1,2025-03-26,independent,0,Huayra,3,0,,,j4MaZREv0u
+2024,Koenigsegg,Red,0,Electric,1156,593,1370,3.65,254,2,manual,AWD,Middle East,3962,2,suede,steel,Bridgestone,1,1,0,2024-08-18,authorized,0,Jesko,0,0,,,Xq5Yks2nSV
+2025,Bugatti,Orange,1,V10,668,665,1504,2.42,257,4,manual,AWD,Europe,7521,2,carbon_fiber,steel,Michelin,1,0,1,2024-12-05,none,0,Chiron,1,1,70841.0,totaled,KlPPDOrfeA
+2020,Lamborghini,White,0,V8,1545,482,1533,2.26,256,2,manual,RWD,Asia,9594,1,leather,steel,Continental,0,0,1,2025-03-11,authorized,0,Urus,3,0,,,pu3rZntdtU
+2022,Lamborghini,White,0,W16,1309,567,2241,3.38,255,2,automatic,AWD,North America,6883,1,suede,steel,Continental,1,0,0,2024-09-01,independent,0,Sian,0,1,28748.0,minor,nUJ96zEASi
+2024,Ferrari,Blue,0,V12,801,1054,1599,2.12,201,2,dual-clutch,AWD,Europe,7312,1,alcantara,carbon-ceramic,Michelin,1,0,0,2025-04-09,authorized,0,F8 Tributo,0,1,82489.0,totaled,2uTDQlydkK
+2025,Aston Martin,Blue,0,V12,1187,954,2391,2.49,233,2,manual,AWD,Asia,8025,1,carbon_fiber,carbon-ceramic,Michelin,0,0,1,2025-02-09,authorized,0,Vantage,3,0,,,5coTpCr6BL
+2022,Koenigsegg,Red,0,V10,886,743,2162,3.82,248,4,dual-clutch,AWD,North America,15848,3,suede,carbon-ceramic,Michelin,0,1,1,2025-03-30,none,0,Agera,3,1,88162.0,minor,CqrTZNzQxp
+2021,Pagani,Red,1,V12,828,411,2074,2.27,263,2,manual,RWD,Europe,12379,3,leather,steel,Michelin,1,0,1,2024-08-24,independent,0,Huayra,2,1,35065.0,minor,QTNFXmIJfH
+2022,Pagani,Yellow,1,V12,959,933,2157,2.75,207,2,automatic,RWD,Middle East,3252,3,alcantara,carbon-ceramic,Bridgestone,0,0,0,2024-10-16,independent,0,Huayra,0,0,,,fC0BQj2oRh
+2024,Koenigsegg,White,1,V10,652,929,2057,3.89,268,2,automatic,AWD,Asia,15487,1,leather,steel,Pirelli,0,0,1,2025-01-22,authorized,0,Agera,2,0,,,CIIajzukMS
+2023,Pagani,Yellow,0,Electric,1224,849,1534,2.04,257,2,automatic,AWD,North America,13992,3,leather,steel,Michelin,0,1,0,2024-08-02,none,2,Huayra,0,0,,,AKNiayAze9
+2022,McLaren,Black,1,V8,1306,973,2378,2.89,242,2,dual-clutch,RWD,North America,19714,1,alcantara,steel,Michelin,1,0,1,2024-08-04,authorized,0,P1,3,1,22340.0,major,sU7Kenthbn
+2020,McLaren,Green,1,Electric,986,1100,1951,3.57,261,2,automatic,AWD,Middle East,6627,1,suede,carbon-ceramic,Pirelli,1,0,0,2024-10-22,authorized,0,P1,0,1,10028.0,major,DIGjsXj4y0
+2024,Pagani,Green,0,V10,1094,990,1829,3.82,251,2,dual-clutch,AWD,Asia,6977,2,suede,carbon-ceramic,Pirelli,0,0,0,2024-08-17,independent,0,Huayra,0,0,,,4dnbGOIcHO
+2023,Koenigsegg,Red,0,Hybrid,1497,889,1575,3.47,232,2,automatic,AWD,North America,7379,2,alcantara,steel,Pirelli,1,0,1,2024-10-19,authorized,0,Jesko,1,0,,,e2GXGHj69i
+2024,Bugatti,White,0,Hybrid,1481,566,1280,3.78,219,4,manual,RWD,Middle East,12775,1,alcantara,carbon-ceramic,Goodyear,0,1,0,2024-11-21,authorized,0,Chiron,0,0,,,IbRnLyzXkX
+2022,McLaren,White,1,Hybrid,1140,1061,2109,2.07,258,2,manual,RWD,Asia,3825,2,leather,carbon-ceramic,Continental,0,0,1,2025-02-05,none,0,P1,1,0,,,uDGNA3HYU3
+2021,Koenigsegg,Yellow,1,V12,1447,864,1649,2.2,259,2,manual,RWD,Middle East,12935,2,leather,carbon-ceramic,Michelin,1,0,1,2025-03-31,independent,0,Agera,4,0,,,mC4Xc4vRa8
+2021,Pagani,Blue,1,V12,690,1134,2222,3.48,262,4,manual,RWD,Middle East,18328,2,carbon_fiber,carbon-ceramic,Bridgestone,0,0,1,2025-06-17,none,0,Zonda,2,0,,,CYxX8rRbp3
+2020,McLaren,Blue,0,Electric,551,1016,2122,3.51,255,4,dual-clutch,AWD,Middle East,14798,2,alcantara,steel,Bridgestone,0,0,0,2024-09-19,independent,0,GT,0,0,,,TzLnBvy4hJ
+2025,Koenigsegg,Red,0,W16,1094,1165,1879,3.21,236,2,automatic,RWD,Middle East,18499,3,carbon_fiber,steel,Pirelli,0,0,0,2025-05-25,authorized,1,Jesko,0,0,,,6KPrXfNbXG
+2025,Ferrari,Silver,0,V8,840,406,1884,3.46,259,2,dual-clutch,AWD,Asia,2104,2,alcantara,carbon-ceramic,Bridgestone,0,1,1,2025-02-09,authorized,0,Roma,4,1,30189.0,minor,ShNI3oKisI
+2020,Lamborghini,Green,0,V12,1024,562,1929,3.72,250,2,dual-clutch,RWD,Middle East,5589,1,carbon_fiber,steel,Continental,0,0,0,2025-04-14,none,0,Sian,0,0,,,3fv1rSvi5y
+2023,Aston Martin,Blue,0,V10,516,594,2163,3.09,228,2,manual,RWD,Middle East,2646,2,leather,steel,Michelin,0,0,0,2025-01-24,authorized,0,Valhalla,0,1,60876.0,minor,OWJciQBakT
+2021,Ferrari,Black,1,Electric,741,718,1390,3.89,208,2,automatic,AWD,North America,829,2,leather,steel,Bridgestone,1,0,1,2025-03-16,independent,0,Roma,1,0,,,zqyg55jSb4
+2022,Pagani,White,0,V8,1150,529,2172,3.39,239,2,dual-clutch,AWD,Asia,3110,3,suede,steel,Continental,0,0,1,2024-09-09,authorized,0,Zonda,1,0,,,IXe5C6FvZg
+2024,Koenigsegg,Blue,0,Hybrid,793,508,2213,2.94,267,4,dual-clutch,RWD,Asia,5367,3,carbon_fiber,steel,Continental,0,0,0,2024-07-16,independent,1,Jesko,0,1,85801.0,minor,7mMDtq2bG6
+2024,Lamborghini,Red,0,W16,1551,618,1879,2.84,242,2,dual-clutch,RWD,Middle East,1137,3,alcantara,steel,Goodyear,1,0,1,2024-07-30,authorized,0,Huracan,2,1,16919.0,minor,5D6cpTucAF
+2021,Bugatti,Black,1,Hybrid,858,905,1388,3.5,222,2,dual-clutch,AWD,Middle East,16077,2,carbon_fiber,carbon-ceramic,Goodyear,1,0,0,2024-11-23,authorized,0,Chiron,0,0,,,mG0yKqCKWa
+2021,Pagani,Green,1,Hybrid,1172,828,1712,3.26,207,2,automatic,RWD,Europe,13061,1,leather,steel,Bridgestone,0,0,1,2024-07-16,independent,0,Zonda,5,0,,,5Kh0yowPdt
+2024,Bugatti,Green,1,V12,1519,1041,2232,3.63,263,2,manual,RWD,Middle East,5045,3,suede,steel,Continental,0,0,0,2025-02-12,authorized,0,Chiron,0,0,,,qDMixSVq3i
+2023,Bugatti,Yellow,0,Electric,681,643,1786,3.56,222,2,manual,RWD,Asia,5242,2,carbon_fiber,carbon-ceramic,Pirelli,1,0,0,2024-12-30,independent,0,Veyron,0,0,,,JugSMoVMoi
+2024,McLaren,Yellow,0,V12,1420,837,2047,3.05,255,2,dual-clutch,RWD,North America,19026,2,leather,carbon-ceramic,Goodyear,0,0,1,2025-04-06,independent,0,600LT,3,1,54853.0,major,nLSXKRFVK1
+2020,McLaren,Black,0,Electric,1291,706,2060,3.89,213,2,automatic,AWD,Asia,786,2,alcantara,carbon-ceramic,Continental,0,0,1,2024-08-15,independent,2,P1,5,0,,,lmHBUTrePa
+2022,Lamborghini,Red,1,W16,1166,996,2195,3.41,216,2,automatic,AWD,North America,2549,3,suede,steel,Goodyear,0,0,0,2025-05-04,authorized,0,Urus,0,0,,,XigLOgtpQ1
+2021,Lamborghini,Orange,0,V10,1225,654,1342,2.4,219,2,dual-clutch,RWD,Middle East,19630,2,leather,carbon-ceramic,Michelin,0,0,1,2024-11-28,independent,0,Huracan,4,0,,,u6cDnwWXyW
+2025,Koenigsegg,Silver,1,V10,852,726,1686,3.24,211,2,automatic,RWD,Europe,5665,3,alcantara,steel,Continental,0,0,0,2024-09-20,none,1,Agera,0,1,73809.0,major,U9MJEcMkcR
+2021,McLaren,Orange,1,V8,568,808,1393,2.4,240,2,dual-clutch,AWD,North America,5772,2,carbon_fiber,steel,Continental,0,0,1,2024-12-03,independent,0,P1,1,0,,,nWFGQn3hwL
+2023,Aston Martin,Yellow,0,V12,976,1148,1721,3.12,231,2,manual,AWD,Asia,10659,1,alcantara,steel,Michelin,0,0,1,2025-06-10,independent,0,DB11,5,0,,,GqgLPs2OD0
+2020,Lamborghini,White,0,V12,824,400,2362,3.58,236,4,manual,RWD,Middle East,19992,1,alcantara,carbon-ceramic,Goodyear,0,0,1,2024-11-27,none,0,Huracan,3,0,,,3hdDLioEXj
+2024,Koenigsegg,Green,1,V12,1598,1176,2253,3.63,217,2,manual,AWD,North America,15159,2,alcantara,steel,Michelin,1,0,0,2024-10-02,none,0,Agera,0,0,,,teG5BVr6RH
+2020,Ferrari,Green,0,V10,786,593,1989,3.3,228,2,dual-clutch,RWD,Europe,18452,3,suede,carbon-ceramic,Bridgestone,1,0,0,2025-05-01,authorized,0,Portofino,0,0,,,ovsvYTR5co
+2020,Pagani,White,0,V8,582,763,2265,3.57,206,2,dual-clutch,RWD,Europe,2337,2,leather,steel,Pirelli,0,0,0,2024-10-13,none,0,Zonda,0,1,96771.0,totaled,GhXNE1ji5m
+2023,Ferrari,Orange,1,V10,768,521,1616,2.94,239,2,manual,AWD,Europe,1816,1,leather,steel,Goodyear,0,0,0,2024-08-22,authorized,0,Roma,0,0,,,irdmkTgewS
+2023,Pagani,Green,1,Hybrid,1387,763,1889,3.1,205,2,dual-clutch,AWD,Middle East,10346,2,alcantara,carbon-ceramic,Continental,1,0,0,2024-07-13,none,0,Zonda,0,1,35333.0,minor,9c9zz7tUEb
+2025,Koenigsegg,Green,1,Electric,800,403,1567,3.76,219,2,automatic,RWD,North America,1802,3,carbon_fiber,steel,Bridgestone,0,1,0,2025-02-09,authorized,0,Agera,0,1,49063.0,major,tROMSbhswX
+2024,McLaren,Green,0,V12,1521,548,1797,2.99,254,2,manual,RWD,North America,1810,3,carbon_fiber,steel,Goodyear,1,1,1,2025-06-29,authorized,0,600LT,5,0,,,ENMR4VoHrT
+2025,Aston Martin,Red,1,Electric,589,460,1759,2.7,255,2,automatic,RWD,Middle East,11184,3,leather,steel,Pirelli,0,0,0,2025-02-06,none,0,Vantage,0,0,,,3rPfKn5CvN
+2024,Ferrari,Orange,0,Hybrid,859,1193,2004,3.59,252,2,automatic,RWD,North America,18305,3,carbon_fiber,steel,Continental,0,0,1,2024-11-10,authorized,0,F8 Tributo,3,1,67809.0,minor,etet4E8dP6
+2022,Aston Martin,Red,0,W16,1525,516,1917,2.1,232,2,dual-clutch,AWD,Middle East,6429,1,alcantara,carbon-ceramic,Michelin,0,0,0,2024-08-17,authorized,0,Valhalla,0,0,,,Yz8j2ire97
+2020,Bugatti,Silver,1,Electric,1279,1083,2058,3.92,221,2,dual-clutch,AWD,Europe,13861,3,leather,steel,Pirelli,1,0,1,2024-07-31,independent,0,Chiron,5,1,71828.0,major,LskbnTSLIR
+2024,Ferrari,White,1,Electric,1226,637,2022,2.68,249,2,manual,AWD,North America,11022,3,leather,carbon-ceramic,Goodyear,0,0,1,2024-08-11,independent,0,F8 Tributo,3,0,,,9kpwecjZx5
+2023,Lamborghini,Red,0,Electric,504,537,1509,3.26,226,2,dual-clutch,AWD,Europe,727,1,carbon_fiber,steel,Continental,1,1,0,2024-11-10,authorized,0,Sian,0,0,,,JBWSWeI3zR
+2022,Ferrari,Black,0,V10,616,1129,1902,3.37,247,2,dual-clutch,RWD,Middle East,12626,3,leather,steel,Goodyear,0,0,1,2024-11-01,authorized,0,F8 Tributo,5,0,,,7ilVlAA42E
+2025,McLaren,Red,1,Electric,1513,857,1727,2.27,265,2,automatic,RWD,Europe,4877,1,suede,carbon-ceramic,Pirelli,0,0,1,2025-07-08,authorized,0,720S,1,1,89393.0,minor,oGfhJbOJhT
+2022,McLaren,Orange,0,Hybrid,930,884,1839,3.65,212,2,dual-clutch,AWD,Asia,8049,3,alcantara,carbon-ceramic,Continental,0,0,0,2025-02-26,authorized,0,P1,0,1,44883.0,minor,VfJ4ZIgj7K
+2023,Aston Martin,Green,1,V12,889,481,1896,3.14,201,2,manual,RWD,Middle East,11088,3,suede,steel,Pirelli,0,1,1,2024-08-11,independent,0,Valhalla,1,1,40290.0,major,D3GcakPqQ3
+2024,Lamborghini,White,1,V8,1243,1130,1804,2.66,245,2,dual-clutch,RWD,Asia,12039,3,leather,carbon-ceramic,Goodyear,0,0,0,2024-10-30,authorized,0,Aventador,0,1,41773.0,major,07XIMeVcLO
+2023,Pagani,Orange,1,W16,583,1113,1852,3.7,270,2,manual,AWD,Middle East,4172,3,carbon_fiber,carbon-ceramic,Continental,0,0,0,2025-01-19,authorized,0,Huayra,0,1,98268.0,major,XwfESp9Qk3
+2024,Lamborghini,Silver,0,V12,1100,986,1520,3.25,210,2,automatic,RWD,Europe,7894,2,suede,steel,Continental,0,1,1,2025-05-31,independent,0,Aventador,2,0,,,1ka1cpTzmZ
+2023,Koenigsegg,Blue,1,V8,952,446,1503,3.57,225,2,automatic,RWD,Europe,2652,2,suede,steel,Continental,0,0,0,2025-04-10,none,0,Agera,0,1,37370.0,major,HjDFQcuzrz
+2023,Pagani,Orange,0,V12,822,743,1718,3.98,262,2,automatic,RWD,Europe,12142,3,suede,carbon-ceramic,Goodyear,1,0,0,2024-12-18,independent,0,Huayra,0,1,11233.0,minor,ii1hSDdqP2
+2021,McLaren,Orange,0,Electric,1463,738,2126,2.26,248,2,manual,AWD,Asia,16010,3,carbon_fiber,carbon-ceramic,Bridgestone,1,0,1,2024-08-15,authorized,0,600LT,3,0,,,ioLxWKFGgv
+2024,Aston Martin,Silver,1,W16,1002,635,2140,3.5,262,2,automatic,RWD,Europe,8523,3,carbon_fiber,carbon-ceramic,Goodyear,0,0,1,2025-06-04,independent,0,Vantage,4,0,,,FBMh9FgBkd
+2020,Aston Martin,Red,1,V12,1005,863,2279,3.52,220,2,automatic,AWD,Asia,13463,2,leather,carbon-ceramic,Michelin,0,0,1,2025-05-13,none,1,Vantage,2,1,10359.0,minor,A5t0jyeaE7
+2021,McLaren,Yellow,0,W16,1384,1062,1391,3.75,248,2,dual-clutch,AWD,Asia,1404,3,carbon_fiber,steel,Bridgestone,0,0,1,2024-11-11,independent,0,P1,3,0,,,1edBIb3eCD
+2021,Koenigsegg,Black,0,V10,995,775,1221,2.82,208,2,manual,RWD,North America,3511,1,suede,steel,Goodyear,0,0,1,2025-03-23,authorized,0,Jesko,5,0,,,1WiAJKcrSD
+2021,Pagani,Silver,0,V10,1440,522,2030,3.74,220,2,automatic,AWD,North America,10560,2,leather,steel,Michelin,0,0,0,2025-05-08,none,0,Huayra,0,0,,,iOsfU0cOEY
+2021,Ferrari,Black,1,Electric,1493,645,1279,3.28,252,2,dual-clutch,AWD,North America,16912,2,carbon_fiber,steel,Pirelli,0,0,1,2025-05-04,independent,0,F8 Tributo,5,0,,,P3BEYWxGkB
+2020,Ferrari,Black,1,Electric,885,653,1627,2.14,254,4,dual-clutch,RWD,Middle East,9059,2,alcantara,steel,Michelin,1,1,0,2025-01-10,none,0,488 GTB,0,0,,,AsLeixLtK0
+2021,Lamborghini,Orange,0,V10,1175,965,1302,2.06,240,2,automatic,AWD,Asia,18320,3,carbon_fiber,steel,Continental,1,0,1,2024-12-07,independent,0,Urus,5,0,,,uqdk4wNUN0
+2025,Aston Martin,Orange,0,V12,1364,1098,1928,2.96,205,4,manual,RWD,Europe,740,1,carbon_fiber,carbon-ceramic,Bridgestone,0,0,1,2024-08-12,authorized,0,DB11,4,0,,,wOVqIpLBZy
+2020,McLaren,Yellow,0,V8,786,680,1341,3.57,200,2,automatic,AWD,North America,9498,2,leather,carbon-ceramic,Goodyear,1,0,1,2024-12-27,authorized,0,P1,4,0,,,IBDxNx98hQ
+2025,Ferrari,Yellow,1,V8,1422,466,2209,2.77,263,2,dual-clutch,AWD,Middle East,3416,1,leather,steel,Goodyear,0,0,1,2024-10-29,independent,0,488 GTB,5,0,,,YNqsTf9Bti
+2020,McLaren,Black,0,V10,700,1052,1602,3.7,204,2,manual,RWD,Asia,1757,1,leather,steel,Continental,0,0,1,2025-05-04,authorized,0,GT,2,1,11832.0,totaled,HZKFuj5O1I
+2025,Lamborghini,Black,0,V8,1310,932,2155,2.98,225,2,dual-clutch,AWD,Middle East,1256,1,alcantara,steel,Bridgestone,1,0,1,2024-10-21,authorized,0,Huracan,3,1,47157.0,minor,AIkk8uWgVR
+2021,Bugatti,Black,1,V12,1382,933,1969,2.05,200,2,automatic,RWD,Europe,16152,3,alcantara,carbon-ceramic,Bridgestone,0,1,1,2024-11-14,authorized,0,Veyron,1,0,,,uqZrOL8icu
+2022,McLaren,Red,1,V8,1012,574,2018,3.95,200,2,manual,RWD,North America,17759,3,carbon_fiber,carbon-ceramic,Continental,1,1,1,2025-04-21,none,0,720S,5,0,,,vgGJCbf12F
+2020,Bugatti,Green,1,Hybrid,1397,590,1939,2.98,237,2,automatic,AWD,Asia,8624,3,carbon_fiber,carbon-ceramic,Bridgestone,0,0,0,2024-11-06,none,0,Chiron,0,1,42397.0,major,joOtZXOrwB
+2021,Aston Martin,Yellow,1,V8,856,684,1361,3.3,240,2,automatic,RWD,Middle East,14292,2,leather,carbon-ceramic,Continental,0,1,1,2025-04-22,authorized,0,Vantage,2,1,41721.0,totaled,z2ATZy7w7S
+2023,McLaren,White,1,Hybrid,1407,704,1793,2.4,227,2,automatic,RWD,North America,14715,2,leather,carbon-ceramic,Michelin,0,0,0,2024-12-04,independent,0,P1,0,0,,,p9FzmeEDtL
+2023,Pagani,Silver,1,V10,1405,1192,1415,2.59,204,2,dual-clutch,AWD,North America,6540,1,alcantara,steel,Continental,1,0,1,2024-11-06,authorized,0,Huayra,2,1,18207.0,major,Azaq615v01
+2024,Koenigsegg,Green,0,W16,1588,806,1762,2.97,220,2,manual,AWD,Asia,8116,2,alcantara,steel,Goodyear,0,0,0,2024-10-28,independent,0,Agera,0,1,29227.0,major,MuYPH3zSGZ
+2020,Bugatti,Red,1,W16,1588,731,2114,3.71,262,2,manual,RWD,North America,19220,3,leather,steel,Pirelli,0,0,1,2024-08-11,authorized,0,Chiron,2,0,,,8dkvDTIQs9
+2020,Pagani,White,0,V12,816,704,1450,2.2,211,2,dual-clutch,RWD,Middle East,18688,3,carbon_fiber,carbon-ceramic,Michelin,1,0,0,2024-07-28,independent,0,Zonda,0,0,,,20jSTMSEnY
+2025,Koenigsegg,Red,0,W16,594,1172,1924,3.56,205,2,manual,RWD,Asia,6972,3,alcantara,carbon-ceramic,Goodyear,1,0,0,2024-09-16,authorized,0,Agera,0,1,69393.0,major,k5BbVPxUJy
+2023,Pagani,Red,1,Electric,958,1068,1874,3.16,228,2,manual,RWD,Asia,15318,3,leather,carbon-ceramic,Michelin,1,0,1,2024-08-22,authorized,0,Huayra,4,0,,,h7OYQMbO2v
+2020,Lamborghini,White,1,V10,894,1172,1587,3.0,260,2,automatic,RWD,North America,3842,1,leather,carbon-ceramic,Goodyear,0,0,0,2025-07-01,authorized,0,Huracan,0,0,,,LxbCUaG2IB
+2020,Lamborghini,Black,0,Hybrid,1562,950,1284,3.75,234,2,automatic,RWD,Europe,10229,2,leather,carbon-ceramic,Bridgestone,0,0,0,2025-02-26,authorized,2,Aventador,0,1,48815.0,major,ofw6HMWivH
+2023,Ferrari,Green,0,Hybrid,648,736,1714,2.24,251,4,dual-clutch,AWD,Europe,4783,3,alcantara,steel,Continental,0,1,1,2025-06-24,none,0,SF90,5,0,,,t0aAVFxWA2
+2021,Bugatti,White,0,W16,875,429,1204,3.98,232,2,manual,RWD,Europe,9661,1,carbon_fiber,steel,Goodyear,0,0,0,2025-04-17,authorized,0,Chiron,0,0,,,ZIbwKVVIPo
+2025,Ferrari,Blue,0,V8,865,839,1434,3.71,224,2,dual-clutch,RWD,Middle East,1048,2,alcantara,carbon-ceramic,Goodyear,1,0,1,2025-02-19,authorized,0,Portofino,3,0,,,0HVMKc8djC
+2023,Aston Martin,Yellow,0,W16,955,657,1574,2.65,213,2,dual-clutch,AWD,Asia,12305,1,carbon_fiber,steel,Bridgestone,1,0,1,2024-08-26,authorized,0,Valhalla,1,0,,,5ClJH1tcCA
+2022,Bugatti,Blue,1,V10,775,1182,1474,2.9,252,2,dual-clutch,RWD,North America,11760,3,alcantara,carbon-ceramic,Pirelli,1,0,1,2025-01-03,authorized,0,Veyron,3,0,,,s2pz6kLBia
+2023,Lamborghini,Green,1,V8,904,962,2112,2.05,260,2,dual-clutch,AWD,Europe,9152,3,leather,carbon-ceramic,Pirelli,0,0,0,2024-11-14,independent,0,Sian,0,0,,,QjQCogGz9J
+2025,Lamborghini,Red,1,V8,662,1190,2123,3.06,212,2,automatic,AWD,North America,14083,3,leather,carbon-ceramic,Continental,0,1,0,2025-02-26,authorized,0,Sian,0,0,,,FUVZOn9UtF
+2023,Koenigsegg,White,0,Hybrid,1299,633,2040,3.1,214,2,dual-clutch,RWD,Europe,15508,2,suede,carbon-ceramic,Bridgestone,1,1,1,2024-11-30,authorized,0,Regera,2,0,,,Ba08pFjgTU
+2025,Koenigsegg,Black,0,V10,1303,425,1860,3.85,254,4,manual,RWD,Europe,15685,3,leather,carbon-ceramic,Michelin,1,0,0,2024-09-14,authorized,0,Jesko,0,0,,,fsKKlMaYaM
+2021,Lamborghini,Green,1,V12,1592,922,1827,2.78,252,2,automatic,RWD,North America,12308,2,carbon_fiber,steel,Goodyear,1,1,0,2025-03-21,authorized,0,Sian,0,0,,,zKJeP18s5g
+2023,Aston Martin,Black,0,V12,679,783,1203,3.14,246,2,automatic,AWD,Middle East,7773,1,leather,steel,Continental,0,1,0,2024-08-02,authorized,0,Vantage,0,1,19618.0,minor,G96HqrnDdz
+2023,Bugatti,Silver,1,V10,631,935,1733,3.48,244,2,dual-clutch,AWD,North America,9363,2,suede,steel,Pirelli,1,0,1,2025-04-22,none,0,Veyron,5,1,92680.0,minor,FhJjASu94X
+2021,Aston Martin,Silver,0,Hybrid,1351,792,1605,3.22,263,2,automatic,AWD,North America,10877,1,leather,steel,Michelin,0,0,1,2024-08-07,authorized,0,Valhalla,4,1,94517.0,totaled,csLmnlA1Dl
+2023,Aston Martin,Blue,1,V10,1511,861,1516,2.31,214,2,automatic,RWD,Middle East,2984,2,leather,carbon-ceramic,Bridgestone,0,0,0,2025-06-28,independent,1,Vantage,0,0,,,va8k5keGQg
+2021,Lamborghini,Silver,0,V10,956,1127,1738,2.34,220,2,automatic,AWD,Middle East,8927,3,alcantara,steel,Goodyear,0,0,0,2024-12-22,independent,0,Urus,0,0,,,ocjgx6eyEU
+2022,Ferrari,Blue,0,V8,1414,537,1539,2.28,235,2,automatic,AWD,North America,8116,3,carbon_fiber,carbon-ceramic,Goodyear,1,0,1,2024-07-14,authorized,0,F8 Tributo,4,0,,,lqkCE6pN7T
+2021,Pagani,Red,0,V8,1516,1136,1718,2.44,269,2,automatic,RWD,Middle East,8824,1,suede,carbon-ceramic,Pirelli,0,1,0,2024-11-28,independent,0,Zonda,0,0,,,0ZLYB29huE
+2020,Koenigsegg,Yellow,1,V10,1009,509,2123,2.66,224,2,automatic,AWD,Europe,8478,2,alcantara,carbon-ceramic,Pirelli,0,0,1,2024-12-18,independent,0,Jesko,2,0,,,43IINRc1CV
+2020,Aston Martin,Red,1,Hybrid,744,874,1890,3.48,243,2,manual,AWD,Middle East,13155,2,suede,steel,Continental,0,0,0,2024-11-01,independent,0,Vantage,0,1,22079.0,major,Oy1Km9n4pW
+2025,Bugatti,Green,0,V8,1283,727,2171,2.12,200,2,automatic,AWD,North America,17732,1,leather,carbon-ceramic,Goodyear,0,0,0,2025-03-25,none,0,Veyron,0,0,,,aJcHi1bpNh
+2021,Pagani,Black,0,Electric,1561,605,2172,3.64,241,2,automatic,AWD,Middle East,6094,2,suede,steel,Goodyear,0,0,0,2025-06-19,authorized,0,Huayra,0,0,,,WfKopxWmIN
+2023,Ferrari,Green,0,V10,997,470,1814,2.52,258,2,dual-clutch,RWD,Asia,5932,2,alcantara,carbon-ceramic,Goodyear,0,0,0,2025-04-08,authorized,0,Roma,0,1,52260.0,totaled,e5xX08t40p
+2024,McLaren,Silver,0,V8,958,609,2277,3.23,232,2,automatic,AWD,Middle East,14702,1,leather,carbon-ceramic,Goodyear,0,0,1,2025-05-05,independent,0,GT,4,0,,,TFCNlx6XBa
+2024,Koenigsegg,White,0,V12,1143,584,2385,3.11,231,2,automatic,AWD,Europe,10460,1,alcantara,carbon-ceramic,Michelin,0,0,1,2024-08-05,authorized,0,Agera,3,0,,,iagAuw5uUC
+2022,Lamborghini,Blue,0,V10,555,1001,2056,2.31,265,2,dual-clutch,RWD,Asia,12593,1,carbon_fiber,steel,Bridgestone,0,0,1,2024-08-31,authorized,0,Huracan,4,1,52367.0,totaled,UdngFutoHb
+2022,Koenigsegg,Black,0,V10,923,1158,1410,2.57,224,2,manual,AWD,Europe,178,2,carbon_fiber,carbon-ceramic,Michelin,0,0,1,2025-03-15,none,0,Regera,5,1,82189.0,totaled,hw3TKCFpHx
+2024,Koenigsegg,Silver,0,V10,549,782,1646,2.59,239,2,manual,RWD,Europe,1911,1,carbon_fiber,steel,Bridgestone,0,0,0,2024-09-06,independent,0,Jesko,0,0,,,5392eDkzjH
+2024,Koenigsegg,Red,1,W16,872,1144,1269,3.25,257,2,automatic,RWD,Asia,17883,1,suede,steel,Michelin,0,0,1,2025-04-22,authorized,0,Regera,3,0,,,b0zESY45hJ
+2021,Ferrari,Yellow,1,V10,581,798,2291,3.58,263,2,manual,AWD,Europe,4512,1,carbon_fiber,carbon-ceramic,Continental,0,1,1,2025-04-27,authorized,0,F8 Tributo,3,0,,,3nLcLhkdZV
+2024,McLaren,White,1,V12,1381,944,1481,3.99,218,4,manual,AWD,Asia,10849,1,suede,carbon-ceramic,Bridgestone,0,0,0,2024-10-01,authorized,0,720S,0,0,,,pM7YTIjlfZ
+2020,Bugatti,Yellow,0,V8,1060,1058,2377,2.19,227,4,manual,AWD,Europe,19059,3,suede,steel,Goodyear,1,0,0,2025-03-11,authorized,0,Chiron,0,0,,,ERaEE8rxTr
+2022,Ferrari,Red,0,V10,547,1081,1661,3.88,241,2,manual,RWD,North America,18554,3,alcantara,steel,Bridgestone,0,0,0,2025-06-15,none,0,SF90,0,0,,,bhTzdtNV8H
+2025,Bugatti,Orange,0,Hybrid,737,1125,1567,3.12,249,2,automatic,AWD,Europe,18716,3,leather,carbon-ceramic,Goodyear,1,0,0,2024-10-19,none,0,Veyron,0,0,,,wkwqKYlbzQ
+2022,Pagani,Red,0,Electric,1491,713,1585,2.71,247,2,automatic,AWD,Asia,3989,1,leather,steel,Continental,0,0,1,2024-07-12,independent,0,Huayra,4,0,,,tvcSDP11Jy
+2020,Pagani,Black,1,Hybrid,888,627,1240,2.57,256,2,dual-clutch,RWD,North America,19138,2,alcantara,carbon-ceramic,Bridgestone,0,0,1,2024-12-14,authorized,0,Zonda,5,0,,,8mTgywr50s
+2022,Bugatti,Silver,0,Hybrid,1184,1057,1884,2.42,208,2,automatic,AWD,North America,14038,3,carbon_fiber,carbon-ceramic,Pirelli,0,0,1,2025-04-03,independent,0,Veyron,2,1,84261.0,major,nXZoDfDV67
+2024,Aston Martin,White,1,V8,686,545,2180,3.11,229,2,automatic,RWD,Middle East,2050,1,alcantara,carbon-ceramic,Goodyear,0,0,0,2025-02-22,none,0,Valhalla,0,1,36228.0,totaled,V777NhBeCa
+2022,Pagani,Green,0,V12,1195,421,1981,3.89,217,2,manual,RWD,Middle East,8453,3,alcantara,carbon-ceramic,Bridgestone,0,0,0,2024-11-14,none,0,Zonda,0,0,,,9Yq8AUesKC
+2020,Pagani,Red,0,W16,862,1000,1876,2.36,244,2,manual,RWD,Middle East,9686,3,leather,carbon-ceramic,Michelin,1,0,0,2024-10-25,independent,0,Zonda,0,1,41168.0,minor,5RXi6O5mfC
+2022,Lamborghini,Orange,0,V12,507,1091,1716,2.87,265,4,automatic,AWD,North America,331,1,suede,steel,Bridgestone,1,0,1,2024-08-19,independent,0,Aventador,3,1,81588.0,major,jWWP6UP9Xs
+2025,Bugatti,Orange,1,Hybrid,1110,699,2353,2.41,210,2,automatic,RWD,Middle East,15300,1,alcantara,carbon-ceramic,Goodyear,1,0,0,2024-08-11,independent,0,Chiron,0,0,,,adsaLp51Za
+2025,Bugatti,Black,0,W16,526,664,1887,2.35,266,2,manual,AWD,North America,4356,3,alcantara,steel,Pirelli,1,0,0,2024-08-28,authorized,0,Veyron,0,0,,,OPlPqvHR04
+2025,McLaren,Red,0,V8,1473,449,2245,3.73,214,2,automatic,AWD,Middle East,2819,1,suede,carbon-ceramic,Pirelli,0,1,1,2024-11-14,independent,0,720S,1,0,,,x9mRaeCoRU
+2025,Koenigsegg,Black,0,W16,1386,1141,1240,2.52,239,2,automatic,AWD,Europe,4542,3,leather,carbon-ceramic,Michelin,0,0,0,2025-01-25,independent,0,Jesko,0,0,,,llb5lVA9KY
+2024,Lamborghini,Orange,1,V8,1482,774,1352,2.5,212,2,manual,RWD,Middle East,13527,3,carbon_fiber,steel,Continental,1,0,0,2024-11-03,independent,0,Urus,0,1,16433.0,minor,dJLtxGMWTO
+2025,Ferrari,Yellow,0,V12,775,460,1757,3.82,232,2,manual,RWD,Asia,4868,3,alcantara,steel,Pirelli,1,0,0,2024-11-07,independent,0,488 GTB,0,0,,,w4Aq5A2DiR
+2025,Lamborghini,Black,0,Hybrid,1324,418,2232,2.77,201,2,dual-clutch,RWD,Middle East,8124,3,carbon_fiber,steel,Continental,0,0,0,2025-04-20,independent,0,Urus,0,0,,,uWJVE3zJGD
+2021,Ferrari,Green,0,V12,1465,707,2270,2.02,233,2,automatic,RWD,North America,6622,2,carbon_fiber,carbon-ceramic,Goodyear,0,0,1,2025-01-04,independent,0,Portofino,3,0,,,2rYNsED1fQ
+2025,Bugatti,Yellow,0,W16,1290,936,1529,3.44,215,2,manual,AWD,Asia,6583,2,alcantara,steel,Bridgestone,0,1,0,2025-04-24,authorized,0,Chiron,0,0,,,SO4s3offmR
+2024,Lamborghini,Blue,0,Electric,1215,606,1952,3.03,213,4,manual,RWD,Asia,12487,1,carbon_fiber,steel,Continental,0,1,0,2024-08-14,none,0,Sian,0,1,22102.0,totaled,kxt7n3XO3u
+2025,Aston Martin,Red,0,Hybrid,976,724,1202,3.55,245,2,automatic,RWD,North America,12955,2,alcantara,steel,Goodyear,1,0,0,2025-03-13,independent,0,Vantage,0,0,,,9CvovHkThb
+2022,McLaren,Blue,0,Hybrid,1203,474,1975,3.14,249,2,automatic,RWD,Asia,17542,2,suede,steel,Goodyear,0,1,0,2024-09-18,independent,0,720S,0,1,83883.0,minor,2jqpwJ9AfF
+2025,Koenigsegg,White,0,V12,859,1052,2259,2.7,204,2,manual,RWD,Asia,293,1,suede,steel,Goodyear,1,0,1,2025-02-21,authorized,0,Regera,4,0,,,v1NV1LMUeL
+2023,Pagani,Orange,0,W16,1556,817,2010,2.13,242,2,automatic,AWD,Asia,5816,3,suede,carbon-ceramic,Michelin,1,0,0,2024-10-03,none,0,Zonda,0,1,10379.0,totaled,oPEhCNG8Lb
+2022,Ferrari,Blue,0,V10,1044,727,1442,3.73,217,4,dual-clutch,AWD,Middle East,8484,2,suede,steel,Michelin,0,0,0,2025-04-19,independent,0,Portofino,0,1,90767.0,minor,zl1LnQ9P6R
+2025,Pagani,Silver,0,V8,599,680,1418,2.41,247,2,manual,RWD,Asia,17545,2,leather,carbon-ceramic,Continental,0,1,1,2024-10-03,independent,0,Huayra,3,1,30287.0,totaled,HVmWMfjiza
+2025,Koenigsegg,Black,1,V10,1156,1002,1400,3.94,263,4,manual,AWD,Europe,508,2,suede,carbon-ceramic,Goodyear,0,0,0,2025-05-04,none,1,Jesko,0,0,,,OkvzTDVGSF
+2022,Bugatti,Black,1,V10,829,474,1593,2.49,225,2,automatic,RWD,Europe,11481,2,alcantara,steel,Continental,1,1,1,2025-01-10,none,0,Veyron,1,1,63427.0,minor,9Qp4fRXp9u
+2020,Bugatti,Orange,1,V10,1588,975,1800,3.65,269,4,manual,RWD,Middle East,4879,3,alcantara,steel,Pirelli,0,0,0,2025-05-28,independent,0,Veyron,0,0,,,Hv3x6aOhen
+2023,Bugatti,White,1,W16,621,993,1468,3.58,213,2,automatic,RWD,Middle East,17777,1,alcantara,carbon-ceramic,Continental,0,0,1,2024-12-28,authorized,0,Chiron,1,0,,,r8TzAjm9io
+2020,Pagani,White,0,V12,1458,1161,2035,2.93,265,2,dual-clutch,RWD,Europe,10810,2,carbon_fiber,carbon-ceramic,Bridgestone,0,0,1,2024-09-12,none,0,Huayra,1,0,,,aaKuoDlmrB
+2025,Koenigsegg,Red,0,Hybrid,1501,1049,1323,2.8,260,2,dual-clutch,AWD,Asia,17090,2,alcantara,steel,Goodyear,1,0,1,2024-10-06,none,0,Jesko,2,1,14814.0,totaled,1JzKJocxl8
+2020,Aston Martin,Orange,1,V10,975,1008,1599,3.41,220,2,dual-clutch,RWD,Europe,17682,2,leather,carbon-ceramic,Continental,0,1,1,2025-06-20,authorized,0,Valhalla,1,0,,,8FxCT6kM6T
+2024,Bugatti,Silver,1,W16,1241,1011,2107,3.06,254,2,manual,RWD,North America,15712,2,leather,carbon-ceramic,Michelin,0,0,0,2025-01-10,authorized,0,Chiron,0,1,86134.0,major,sVJ9MsSs7v
+2021,Bugatti,Black,0,V12,626,1184,1480,3.26,201,2,dual-clutch,AWD,Asia,3858,1,leather,carbon-ceramic,Bridgestone,0,0,1,2024-08-31,independent,0,Chiron,2,0,,,bGXo1u0E3c
+2022,Pagani,Silver,0,V8,1367,640,2207,2.94,202,2,automatic,RWD,Europe,19491,3,leather,carbon-ceramic,Continental,0,1,0,2024-11-13,authorized,0,Zonda,0,0,,,TIOOCdQ4Jr
+2023,Bugatti,Silver,1,V12,590,404,1966,3.11,212,4,automatic,RWD,Europe,740,1,leather,carbon-ceramic,Continental,0,1,0,2025-06-17,authorized,0,Chiron,0,0,,,g1B9LanL2Z
+2022,Koenigsegg,White,0,V12,545,614,1632,2.38,220,2,dual-clutch,AWD,Asia,5605,2,leather,steel,Continental,1,0,0,2025-03-12,independent,0,Regera,0,0,,,omvwSCaZFC
+2020,Ferrari,Silver,0,V10,524,978,1599,2.11,232,4,dual-clutch,AWD,Asia,1434,2,suede,carbon-ceramic,Michelin,0,0,0,2024-12-17,none,0,SF90,0,0,,,jE8e31Tn8v
+2021,Lamborghini,Green,0,W16,848,886,2070,2.71,219,2,automatic,AWD,Asia,5542,1,leather,carbon-ceramic,Continental,0,0,1,2025-05-06,authorized,0,Sian,5,0,,,bVGrzEiQLX
+2020,Ferrari,Silver,0,Hybrid,1502,756,2225,2.93,217,2,dual-clutch,AWD,Middle East,15598,3,carbon_fiber,steel,Pirelli,1,0,0,2024-11-02,none,0,F8 Tributo,0,0,,,4yWozJ7Z59
+2022,Aston Martin,Blue,1,Electric,1267,793,1528,3.81,237,2,dual-clutch,RWD,North America,17705,3,leather,steel,Pirelli,0,0,1,2024-11-19,none,0,Vantage,1,1,44515.0,totaled,4LdCXvWMzu
+2024,Bugatti,Silver,1,V8,1372,554,1834,2.83,224,2,dual-clutch,RWD,Middle East,175,3,alcantara,carbon-ceramic,Pirelli,0,0,0,2025-04-26,none,0,Chiron,0,0,,,Ttu5thIrbW
+2022,Koenigsegg,Black,1,W16,793,790,1582,2.87,237,2,automatic,RWD,Europe,10517,3,alcantara,carbon-ceramic,Continental,1,0,1,2024-12-20,authorized,0,Regera,1,0,,,d8qlMHylk9
+2020,Koenigsegg,Orange,0,Hybrid,745,768,1277,3.35,214,2,automatic,RWD,North America,13654,1,carbon_fiber,carbon-ceramic,Bridgestone,0,0,1,2024-09-15,authorized,0,Jesko,3,0,,,KAVf95uM2C
+2023,Bugatti,Silver,1,V10,756,428,1531,2.41,228,2,dual-clutch,AWD,Middle East,9512,1,leather,steel,Michelin,0,0,1,2025-02-22,authorized,2,Chiron,5,0,,,0rqctxGIng
+2023,Aston Martin,Green,0,W16,1321,822,1362,3.74,263,2,automatic,AWD,Europe,15639,3,suede,carbon-ceramic,Pirelli,0,0,1,2025-04-09,none,0,DB11,4,1,67154.0,minor,vRLYsG33GZ
+2023,Aston Martin,Orange,1,Hybrid,851,408,1349,2.86,231,2,dual-clutch,RWD,Asia,2471,1,suede,carbon-ceramic,Pirelli,0,0,1,2024-10-26,independent,0,DB11,1,1,74934.0,totaled,gGXi0ZbP0F
+2023,Bugatti,Silver,0,Electric,1289,599,1759,3.86,242,2,dual-clutch,AWD,Europe,17823,1,suede,carbon-ceramic,Bridgestone,0,0,0,2025-06-13,authorized,1,Chiron,0,0,,,pJvuVW63hi
+2023,Bugatti,White,1,V8,1522,844,1825,2.54,212,2,dual-clutch,AWD,Asia,208,2,suede,steel,Pirelli,0,0,0,2024-09-08,authorized,0,Chiron,0,0,,,NBhCZXobaK
+2025,Pagani,Silver,1,V12,1193,733,1775,2.93,224,2,manual,RWD,Middle East,13905,1,leather,steel,Michelin,0,0,1,2024-07-29,authorized,0,Huayra,4,0,,,FTvwqkB2eL
+2021,Koenigsegg,Orange,1,Hybrid,1238,629,2162,3.56,248,2,manual,RWD,Europe,247,1,carbon_fiber,steel,Bridgestone,0,1,1,2024-07-21,none,0,Regera,5,0,,,9Dw608F7sQ
+2021,Lamborghini,Red,1,V8,1557,792,1349,3.11,207,2,dual-clutch,AWD,North America,2894,3,suede,steel,Goodyear,0,0,0,2025-02-01,independent,1,Huracan,0,0,,,ba5estdPQS
+2024,Pagani,Silver,0,Electric,1218,707,2270,3.32,227,2,manual,AWD,Europe,11966,1,leather,steel,Michelin,0,0,0,2024-11-23,independent,0,Huayra,0,0,,,i2W5Stcwwo
+2023,Pagani,Green,0,V8,1055,730,1561,2.56,210,4,dual-clutch,AWD,Asia,789,3,leather,carbon-ceramic,Michelin,0,0,0,2024-08-30,authorized,0,Zonda,0,0,,,zcdNTIBci3
+2020,Koenigsegg,Yellow,0,Hybrid,998,1178,1573,2.66,254,2,manual,RWD,Middle East,4080,2,leather,steel,Continental,0,1,0,2025-04-18,none,0,Regera,0,1,25142.0,minor,XlpVSE2EZU
+2020,Aston Martin,Silver,0,V8,822,759,1970,3.02,209,2,dual-clutch,RWD,North America,18130,2,leather,steel,Goodyear,0,0,1,2025-06-28,independent,0,Vantage,2,1,21755.0,minor,36gvNsJ7vo
+2022,Bugatti,Black,1,V10,613,1074,1294,2.4,258,2,manual,AWD,North America,18945,1,leather,carbon-ceramic,Goodyear,0,0,0,2025-02-18,none,1,Chiron,0,0,,,NtZ7rj6nGP
+2023,Ferrari,Silver,0,V12,1447,986,2324,2.25,264,2,automatic,AWD,Middle East,1117,1,alcantara,carbon-ceramic,Bridgestone,0,0,1,2024-08-20,authorized,1,Roma,4,0,,,k0hzLcYyMQ
+2020,Koenigsegg,Black,0,Electric,984,582,2153,3.69,204,2,automatic,RWD,Middle East,19353,3,leather,carbon-ceramic,Pirelli,1,0,1,2025-01-05,independent,0,Jesko,4,1,59815.0,totaled,GpnbzEPCQn
+2025,Ferrari,Silver,0,V10,777,786,1281,3.55,219,2,manual,AWD,Europe,19238,2,leather,carbon-ceramic,Goodyear,0,1,0,2024-12-27,authorized,0,Portofino,0,0,,,NcrqIK6cLo
+2024,McLaren,Black,0,V8,1552,508,1832,3.86,204,2,dual-clutch,AWD,Europe,9232,3,leather,carbon-ceramic,Bridgestone,1,0,0,2024-10-29,authorized,0,720S,0,1,98271.0,major,XYym4RIpa2
+2020,Koenigsegg,Black,1,V8,897,738,2102,3.17,266,2,manual,AWD,North America,13550,1,alcantara,carbon-ceramic,Goodyear,0,0,0,2024-12-11,authorized,0,Jesko,0,0,,,C3OjWA56zb
+2025,Lamborghini,Yellow,1,W16,721,599,2195,2.84,229,4,manual,AWD,Europe,14863,2,alcantara,steel,Michelin,0,0,1,2025-06-19,authorized,0,Aventador,5,0,,,8rEujQ2GO6
+2025,Koenigsegg,Yellow,0,V10,817,580,1612,2.21,233,2,automatic,RWD,Asia,5786,1,carbon_fiber,steel,Goodyear,0,0,0,2024-12-16,authorized,0,Jesko,0,0,,,b8D6ntsYy2
+2024,McLaren,Orange,0,Electric,770,939,1202,3.7,200,2,automatic,RWD,Asia,6320,2,carbon_fiber,steel,Pirelli,0,0,0,2024-11-14,independent,0,P1,0,1,78445.0,major,enpLutCKqd
+2023,Pagani,Green,1,Electric,897,964,1212,2.91,226,2,automatic,AWD,Europe,19586,3,leather,carbon-ceramic,Bridgestone,0,0,0,2024-11-16,authorized,0,Huayra,0,1,52973.0,major,qWPEIPWoEQ
+2022,McLaren,Green,0,Electric,842,1159,1363,3.12,262,2,manual,RWD,North America,16681,1,suede,carbon-ceramic,Pirelli,0,0,0,2024-10-16,authorized,2,GT,0,0,,,sJaRUTJxYw
+2022,Aston Martin,Red,1,Hybrid,880,836,1816,2.63,233,2,automatic,RWD,Europe,9189,1,leather,steel,Continental,1,0,0,2024-12-31,authorized,0,DB11,0,0,,,A4VWyJj8hj
+2021,McLaren,Orange,1,Hybrid,1274,439,1365,3.05,231,2,automatic,AWD,Middle East,11036,2,carbon_fiber,steel,Pirelli,1,0,0,2024-08-14,independent,0,720S,0,0,,,jfGIpT0qOZ
+2023,Koenigsegg,Black,1,Hybrid,839,621,2298,3.56,270,2,automatic,RWD,Middle East,11393,3,suede,carbon-ceramic,Pirelli,0,0,0,2025-01-20,authorized,0,Jesko,0,0,,,XFkorwBXvY
+2020,McLaren,White,1,Electric,506,696,1259,3.42,245,2,dual-clutch,AWD,North America,14698,2,suede,steel,Bridgestone,0,0,1,2024-12-31,independent,0,GT,5,1,87557.0,totaled,DdOWZl7AmR
+2022,Lamborghini,Silver,0,V8,787,1077,1581,3.98,267,2,dual-clutch,AWD,North America,2663,2,carbon_fiber,carbon-ceramic,Michelin,0,0,0,2024-09-27,authorized,0,Sian,0,0,,,Jag4rlRzrF
+2025,Koenigsegg,Blue,1,Hybrid,1392,428,2296,2.99,256,2,manual,RWD,Middle East,18699,2,leather,carbon-ceramic,Goodyear,0,0,1,2024-09-07,authorized,0,Jesko,1,1,20391.0,major,JzR8rOSVbQ
+2024,Ferrari,Black,0,V8,1346,1100,1989,3.06,221,2,automatic,AWD,Middle East,7959,1,carbon_fiber,carbon-ceramic,Goodyear,0,0,1,2024-11-14,independent,0,Portofino,4,1,13874.0,major,F5aflaVVsZ
+2025,Ferrari,Green,0,V10,1216,601,1860,2.11,228,2,manual,RWD,Asia,3558,3,suede,carbon-ceramic,Bridgestone,0,0,1,2025-05-23,authorized,0,SF90,1,0,,,GQwO2YZ8z4
+2024,McLaren,Yellow,0,V12,683,884,2346,2.78,244,2,manual,AWD,Europe,9105,3,alcantara,steel,Bridgestone,1,0,0,2025-03-09,none,0,P1,0,1,59919.0,totaled,qugjl5q3tq
+2020,Koenigsegg,Red,0,Electric,1069,529,1666,3.84,244,2,automatic,AWD,North America,12504,3,leather,steel,Michelin,0,0,0,2025-07-01,none,0,Agera,0,0,,,h7RVA11dEB
+2020,Lamborghini,Black,0,V8,1122,447,1715,2.7,266,2,manual,AWD,Middle East,19812,2,carbon_fiber,steel,Michelin,1,0,1,2025-03-23,independent,0,Aventador,5,0,,,likt1Dff8L
+2023,Ferrari,Silver,1,V10,685,1168,1680,3.53,220,2,automatic,RWD,North America,1004,3,carbon_fiber,steel,Continental,1,0,1,2024-12-12,authorized,0,Roma,2,0,,,L6VMY8UJpn
+2020,Bugatti,Red,1,Electric,1142,815,1436,3.96,220,2,automatic,AWD,Middle East,2593,3,carbon_fiber,carbon-ceramic,Goodyear,0,0,0,2024-09-18,independent,0,Chiron,0,1,71043.0,minor,WCai6Wspyu
+2020,Koenigsegg,White,1,V12,979,999,1919,2.25,259,2,dual-clutch,RWD,North America,19154,1,alcantara,steel,Goodyear,0,0,0,2024-12-07,independent,1,Regera,0,0,,,pVgXk1ZQ54
+2020,Aston Martin,White,0,Electric,1347,1169,1371,2.67,228,2,manual,AWD,North America,5817,1,alcantara,steel,Continental,1,0,1,2025-06-24,authorized,0,DB11,1,1,26880.0,totaled,lUeHHrLZAI
+2022,Koenigsegg,White,0,Hybrid,1129,970,1406,2.95,232,4,manual,AWD,Asia,15771,1,leather,carbon-ceramic,Bridgestone,0,0,0,2025-04-05,authorized,0,Agera,0,1,40933.0,totaled,s6avNTPjdH
+2023,Aston Martin,White,1,W16,1003,856,2373,2.47,238,2,automatic,AWD,Asia,5063,2,leather,carbon-ceramic,Goodyear,0,1,1,2024-12-10,authorized,0,DB11,4,0,,,mHEmnDcmtU
+2020,Ferrari,Orange,1,Electric,609,448,1770,2.02,261,2,dual-clutch,AWD,Asia,19786,1,leather,steel,Pirelli,1,0,1,2024-10-23,authorized,0,Roma,5,0,,,sEUS9Yd3IR
+2020,Ferrari,Blue,1,W16,1231,1127,2004,2.94,270,2,dual-clutch,AWD,Asia,19124,3,carbon_fiber,carbon-ceramic,Bridgestone,0,0,0,2024-08-26,independent,0,SF90,0,0,,,G1NfRK0I7k
+2025,Lamborghini,Red,1,V12,713,475,2374,3.07,244,4,manual,RWD,Asia,13071,1,alcantara,carbon-ceramic,Bridgestone,0,1,1,2024-07-20,none,0,Aventador,3,1,21899.0,major,af28kYkp7r
+2025,Lamborghini,Black,0,W16,1495,945,1312,3.25,257,2,dual-clutch,AWD,Middle East,9113,2,leather,carbon-ceramic,Michelin,0,0,0,2024-08-17,authorized,0,Huracan,0,0,,,jDpa2QBoto
+2024,Ferrari,Blue,0,V12,1067,647,1687,3.65,200,2,manual,AWD,Europe,13760,1,alcantara,carbon-ceramic,Continental,1,0,1,2025-01-19,authorized,0,SF90,2,0,,,XskN4Ixhsr
+2022,Bugatti,Black,1,V10,1500,689,1582,2.51,210,2,manual,RWD,Middle East,9912,3,suede,carbon-ceramic,Bridgestone,1,0,0,2024-10-09,authorized,0,Veyron,0,1,10956.0,totaled,22atpY8tFq
+2020,Bugatti,Yellow,1,W16,1460,934,2157,2.12,231,2,dual-clutch,AWD,Europe,8094,1,leather,carbon-ceramic,Michelin,0,0,0,2025-04-12,authorized,0,Chiron,0,0,,,0beBn8iNuE
+2022,Aston Martin,Silver,0,Hybrid,1323,930,1897,2.18,248,4,automatic,RWD,Asia,6170,1,alcantara,carbon-ceramic,Pirelli,0,0,1,2025-06-15,authorized,0,Vantage,5,0,,,7ZCanJxdpy
+2023,McLaren,Green,0,Electric,1346,835,2363,2.99,229,2,manual,RWD,North America,19567,1,leather,carbon-ceramic,Pirelli,1,0,0,2025-06-18,authorized,0,P1,0,0,,,h6VmDlDEQ5
+2023,McLaren,Blue,0,Electric,1157,782,1823,3.84,259,2,manual,RWD,North America,9707,2,alcantara,steel,Goodyear,0,1,1,2025-04-11,authorized,0,720S,5,1,12968.0,totaled,C43CNCId34
+2025,Ferrari,Green,1,V10,1571,495,1906,3.96,209,2,manual,RWD,Europe,7984,2,alcantara,steel,Continental,1,0,0,2025-06-25,independent,0,Roma,0,0,,,i0DQ8lzCaG
+2021,Ferrari,Blue,0,V8,1475,650,1324,2.41,220,2,manual,RWD,Europe,11801,2,carbon_fiber,carbon-ceramic,Continental,0,0,0,2024-09-01,independent,0,488 GTB,0,0,,,YQ7OzkW4tC
+2024,Ferrari,Green,1,Hybrid,698,640,1555,2.3,205,2,dual-clutch,RWD,Middle East,10501,2,suede,steel,Michelin,1,1,0,2025-01-11,none,0,SF90,0,0,,,WesyVe0NKv
+2021,Koenigsegg,Orange,0,Hybrid,1007,704,1438,2.71,237,2,dual-clutch,RWD,Europe,4742,2,leather,carbon-ceramic,Goodyear,0,0,1,2024-09-16,independent,0,Jesko,1,0,,,FmPkeFwdoA
+2022,Bugatti,Silver,0,V12,828,956,2205,2.93,257,2,dual-clutch,RWD,Middle East,10928,1,alcantara,carbon-ceramic,Continental,0,1,0,2024-07-30,authorized,0,Chiron,0,0,,,Can6yHzdv7
+2024,Pagani,Green,0,Hybrid,623,987,1712,3.62,207,4,dual-clutch,RWD,Asia,15658,1,leather,steel,Goodyear,0,0,1,2024-07-11,independent,0,Zonda,5,1,29928.0,totaled,SMxo2hKP0l
+2025,McLaren,Yellow,1,V8,699,1018,1832,3.55,269,2,manual,RWD,North America,13744,2,alcantara,steel,Michelin,0,0,0,2024-07-31,authorized,0,P1,0,0,,,pObjxibMqv
+2020,McLaren,Green,0,V8,574,971,1800,3.85,262,2,automatic,RWD,North America,1502,2,suede,carbon-ceramic,Goodyear,1,0,0,2024-10-20,independent,0,GT,0,1,57100.0,major,MQh6zdPF0E
+2025,Pagani,Blue,0,V10,656,839,2223,3.72,233,2,automatic,RWD,Middle East,1636,1,alcantara,carbon-ceramic,Bridgestone,0,0,1,2025-01-28,authorized,0,Zonda,4,1,94744.0,totaled,M0eJYwGaww
+2025,Ferrari,Green,0,V10,811,887,2400,2.88,248,2,dual-clutch,AWD,Europe,1809,3,alcantara,carbon-ceramic,Bridgestone,0,0,0,2024-12-02,authorized,0,F8 Tributo,0,1,72303.0,minor,Xl4Cs0e1tG
+2024,McLaren,Red,0,W16,1535,897,1313,2.04,239,2,manual,AWD,Middle East,8458,1,leather,carbon-ceramic,Bridgestone,0,0,0,2024-09-13,authorized,0,600LT,0,0,,,B8qXaumRPV
+2024,Bugatti,Silver,0,Hybrid,582,531,2128,2.47,228,4,dual-clutch,AWD,Europe,17051,2,suede,steel,Bridgestone,0,0,1,2024-08-15,authorized,0,Chiron,2,1,26694.0,major,bRH81MXjEm
+2023,Pagani,Green,0,W16,1192,801,1226,3.22,208,2,automatic,RWD,Europe,2821,1,alcantara,steel,Pirelli,0,0,1,2024-07-24,authorized,0,Zonda,5,0,,,4aS1EAueXW
+2021,Bugatti,White,0,W16,1517,1068,1798,3.0,220,2,dual-clutch,RWD,Europe,3945,2,leather,steel,Pirelli,0,0,1,2024-10-15,authorized,0,Chiron,2,0,,,fxfZH75ZWf
+2023,Koenigsegg,Silver,0,W16,685,775,1791,2.48,231,2,manual,AWD,Middle East,4490,1,alcantara,steel,Continental,1,0,1,2024-12-23,independent,0,Jesko,2,0,,,UyfIWC1P92
+2023,Ferrari,Silver,0,W16,542,966,1379,2.26,254,4,manual,RWD,Asia,16097,1,leather,carbon-ceramic,Pirelli,0,0,1,2024-07-20,authorized,0,Portofino,1,0,,,4AJ3g55alZ
+2021,McLaren,Orange,1,Electric,572,1097,1766,2.43,242,2,manual,RWD,North America,12383,1,suede,steel,Goodyear,1,0,1,2024-07-24,authorized,0,GT,3,0,,,2sGeobat6g
+2023,Aston Martin,Green,0,V10,1542,1086,1446,2.52,209,2,dual-clutch,AWD,Middle East,2026,3,carbon_fiber,steel,Goodyear,0,0,1,2025-01-15,independent,0,DB11,2,1,71752.0,major,CkKrYCBp6J
+2024,Bugatti,Black,1,V12,664,942,1516,3.73,248,2,automatic,RWD,Asia,16438,1,suede,steel,Pirelli,0,0,1,2024-11-14,authorized,0,Veyron,5,0,,,AdlcZSvUdI
+2022,Pagani,Yellow,0,V12,766,770,2158,3.42,212,2,manual,AWD,North America,7474,1,leather,carbon-ceramic,Goodyear,1,0,0,2024-09-16,none,0,Huayra,0,0,,,xrke6aylMX
+2020,Aston Martin,White,1,V12,1366,811,1981,3.1,240,2,automatic,AWD,Middle East,9832,3,suede,carbon-ceramic,Continental,0,0,1,2025-01-31,none,0,Vantage,3,0,,,RM4WLOyqEF
+2020,Ferrari,Orange,0,V12,1153,554,2185,2.04,230,2,automatic,RWD,Middle East,1814,1,leather,carbon-ceramic,Michelin,0,0,1,2024-09-09,none,0,Portofino,1,0,,,ZRRkjbuoM5
+2023,McLaren,Blue,0,V12,533,644,2089,3.64,231,2,dual-clutch,RWD,Asia,10541,3,leather,carbon-ceramic,Pirelli,0,1,0,2025-05-29,authorized,0,600LT,0,1,78727.0,major,kLdOnxacA7
+2021,McLaren,Red,0,Electric,597,941,2391,3.1,244,2,dual-clutch,RWD,Middle East,12507,3,suede,carbon-ceramic,Bridgestone,0,1,1,2025-01-14,authorized,0,GT,4,0,,,T3bp1YHqj2
+2024,Aston Martin,Green,0,V10,815,960,2291,3.25,212,2,automatic,AWD,North America,7147,3,carbon_fiber,steel,Goodyear,0,0,0,2025-01-13,independent,0,DB11,0,0,,,lZs2tr2CsJ
+2023,Ferrari,Green,1,Hybrid,1209,1081,1976,2.13,224,4,manual,RWD,Asia,12715,1,suede,steel,Goodyear,1,0,1,2024-11-01,authorized,0,488 GTB,4,0,,,VBMZZe0au2
+2024,Ferrari,Blue,1,W16,904,474,1946,3.63,267,2,manual,RWD,Middle East,4236,2,leather,steel,Michelin,1,0,1,2025-05-27,authorized,0,SF90,4,0,,,uACdVEGM4D
+2024,Ferrari,Orange,1,W16,1115,605,1544,3.66,214,2,dual-clutch,RWD,North America,14255,1,carbon_fiber,steel,Continental,1,1,0,2025-06-01,authorized,0,Roma,0,0,,,XDDjcweCgb
+2025,Koenigsegg,Yellow,0,W16,1381,827,1251,3.77,263,2,manual,AWD,Middle East,14861,2,leather,carbon-ceramic,Goodyear,0,1,1,2024-08-14,independent,2,Regera,2,0,,,DAixK7a17B
+2020,Bugatti,Orange,0,V10,1333,820,2004,3.06,259,2,automatic,RWD,Asia,4253,2,carbon_fiber,carbon-ceramic,Bridgestone,0,0,0,2025-03-20,authorized,0,Chiron,0,1,57540.0,totaled,tJffaub0h4
+2022,Lamborghini,Blue,1,V10,1354,1072,1791,2.79,207,2,manual,RWD,Middle East,16488,3,suede,carbon-ceramic,Michelin,1,1,0,2025-03-11,independent,0,Urus,0,1,40585.0,minor,fWKWQl9cjS
+2022,Koenigsegg,Red,1,Hybrid,939,548,1892,2.15,216,2,dual-clutch,AWD,North America,15225,3,suede,carbon-ceramic,Goodyear,0,1,0,2024-09-28,authorized,0,Jesko,0,0,,,BOUXj6iFCD
+2021,McLaren,Silver,0,Electric,1031,487,2363,2.39,204,2,automatic,RWD,Europe,7861,3,leather,steel,Bridgestone,0,0,0,2025-02-07,independent,0,P1,0,0,,,DVKMI39rzb
+2022,Aston Martin,Orange,1,Electric,1276,905,1608,2.45,212,2,automatic,RWD,Middle East,1208,3,carbon_fiber,carbon-ceramic,Goodyear,0,0,1,2024-09-07,authorized,0,Valhalla,3,0,,,SFtGaKuFOO
+2023,Bugatti,Green,1,Hybrid,615,567,1534,2.13,220,2,manual,AWD,Middle East,13528,1,leather,steel,Bridgestone,0,0,1,2025-02-12,authorized,0,Chiron,1,0,,,SgWj7oPYu2
+2020,Pagani,Silver,0,W16,904,588,1604,2.31,243,2,manual,RWD,North America,13342,1,carbon_fiber,carbon-ceramic,Michelin,1,0,0,2024-10-04,authorized,0,Zonda,0,0,,,F9624Q5liV
+2020,McLaren,Blue,0,Hybrid,796,513,1321,3.77,252,2,automatic,RWD,North America,12566,2,leather,steel,Continental,0,0,0,2024-12-29,authorized,1,GT,0,0,,,XVnTciK1fv
+2024,Koenigsegg,Silver,0,V10,1400,412,1846,3.09,227,2,dual-clutch,RWD,Asia,2995,1,suede,carbon-ceramic,Pirelli,0,0,1,2024-08-01,authorized,0,Jesko,3,0,,,BqiaCP5yRn
+2023,Lamborghini,Blue,1,W16,1057,1077,1888,3.53,265,2,dual-clutch,AWD,Europe,7642,1,alcantara,steel,Pirelli,1,0,1,2025-03-11,authorized,0,Sian,2,1,29125.0,minor,n34mYAhaP7
+2023,Pagani,Green,1,Electric,833,556,2262,2.55,220,2,manual,AWD,Asia,4320,2,leather,steel,Continental,0,1,1,2025-02-26,none,0,Huayra,5,0,,,Ty9qUVxngR
+2024,McLaren,Blue,1,Hybrid,1594,580,1274,2.27,256,2,dual-clutch,AWD,North America,1906,1,alcantara,steel,Goodyear,0,1,0,2024-07-19,independent,0,GT,0,0,,,JMywOwHns4
+2025,Aston Martin,Green,1,W16,1465,719,2064,2.75,254,2,automatic,AWD,North America,18094,1,suede,carbon-ceramic,Michelin,0,0,1,2024-10-12,none,0,DB11,1,0,,,bspxAW4Bcv
+2025,Lamborghini,Orange,0,Electric,558,691,1416,3.59,201,4,dual-clutch,RWD,North America,11440,3,alcantara,carbon-ceramic,Bridgestone,0,0,0,2024-09-30,none,0,Aventador,0,0,,,lov1obK7FB
+2024,Ferrari,Blue,0,V8,1215,1015,1942,2.59,264,2,automatic,AWD,North America,4179,3,carbon_fiber,carbon-ceramic,Michelin,0,0,0,2025-03-22,independent,1,F8 Tributo,0,1,25971.0,totaled,T6t8Ftl047
+2020,Lamborghini,Silver,1,V12,1505,1022,1617,2.41,202,2,manual,RWD,Asia,2139,2,alcantara,steel,Continental,1,0,1,2024-12-26,authorized,0,Huracan,3,0,,,dH2CF6LDOi
+2023,McLaren,Red,1,V8,1574,1172,1855,2.04,258,2,dual-clutch,RWD,Europe,16391,3,leather,steel,Goodyear,1,0,0,2025-03-16,none,0,600LT,0,0,,,kSmX8DWxKD
+2022,Lamborghini,Black,0,Hybrid,515,1059,2063,3.25,262,2,automatic,RWD,North America,11925,1,alcantara,steel,Goodyear,0,0,1,2025-04-05,independent,0,Sian,3,0,,,CAnHb3j9bR
+2022,Koenigsegg,White,0,W16,550,876,2007,2.87,204,2,manual,RWD,Asia,3645,3,carbon_fiber,steel,Continental,0,0,1,2024-12-25,none,0,Jesko,4,0,,,lEn3zV1iDU
+2020,McLaren,Yellow,0,W16,1488,1050,1495,2.52,265,2,automatic,AWD,Asia,9846,3,suede,carbon-ceramic,Michelin,1,1,0,2024-07-13,independent,0,P1,0,0,,,BM8ZgN8qJ5
+2022,McLaren,Silver,0,V10,1237,832,1649,3.04,217,2,dual-clutch,RWD,Asia,8670,2,carbon_fiber,steel,Pirelli,0,0,1,2025-04-21,independent,0,GT,3,0,,,pm4uTMFqOQ
+2022,Aston Martin,Black,0,V12,1405,568,1302,3.4,208,2,automatic,AWD,Asia,12395,1,leather,carbon-ceramic,Michelin,0,0,1,2025-04-11,none,0,Valhalla,3,0,,,XK0Bdi1BTA
+2023,Lamborghini,Red,0,Electric,827,801,2315,2.49,221,2,manual,AWD,Asia,12119,2,carbon_fiber,steel,Goodyear,0,0,0,2025-04-11,independent,0,Aventador,0,1,33548.0,totaled,26jZyyggvI
+2023,Lamborghini,Yellow,0,W16,1431,557,1989,3.22,227,2,manual,AWD,North America,11889,1,alcantara,carbon-ceramic,Goodyear,0,1,1,2024-09-23,independent,0,Huracan,2,0,,,SrZsP0fXhg
+2021,Koenigsegg,Yellow,1,Electric,800,783,2100,2.52,259,2,dual-clutch,RWD,North America,2014,1,alcantara,steel,Continental,0,0,1,2025-01-03,authorized,0,Jesko,1,0,,,Brd4HvOGYY
+2023,Pagani,Green,1,Electric,1017,797,1345,3.97,211,2,manual,AWD,Europe,18011,1,carbon_fiber,steel,Michelin,0,0,0,2025-02-18,none,0,Zonda,0,0,,,RinK3zsqcl
+2021,Pagani,Green,1,Electric,761,455,1318,3.46,236,2,dual-clutch,RWD,Europe,15762,3,alcantara,carbon-ceramic,Pirelli,0,1,1,2024-09-04,independent,0,Zonda,5,1,96320.0,minor,KNACbyMleN
+2025,Bugatti,Silver,1,V8,590,472,1463,3.21,241,2,manual,RWD,Europe,7525,2,alcantara,carbon-ceramic,Michelin,1,0,0,2025-03-22,authorized,0,Veyron,0,1,72213.0,major,vf5ysSBTMn
+2023,McLaren,Blue,1,Electric,693,1159,2282,2.34,253,2,dual-clutch,AWD,Europe,17626,1,leather,steel,Goodyear,0,1,0,2025-02-15,authorized,2,P1,0,0,,,lJAmLWq4lP
+2024,Pagani,Orange,0,V10,1587,872,2188,3.17,241,2,manual,RWD,Middle East,9364,3,leather,steel,Michelin,0,0,1,2025-06-12,independent,0,Zonda,4,1,71036.0,totaled,j4koER0Kdc
+2023,Aston Martin,Orange,0,V8,725,579,1864,3.6,266,2,dual-clutch,AWD,Asia,5476,2,leather,steel,Goodyear,0,1,0,2025-05-26,authorized,0,Vantage,0,1,99447.0,totaled,UpKrA4YFZy
+2021,Bugatti,Orange,1,V8,944,1002,1385,3.47,255,2,automatic,RWD,Asia,7218,3,suede,carbon-ceramic,Goodyear,0,0,1,2025-05-20,authorized,0,Veyron,2,1,38925.0,major,DxpalJ6rKC
+2022,Koenigsegg,White,0,W16,833,593,2338,3.56,245,2,automatic,RWD,Asia,10293,3,suede,carbon-ceramic,Bridgestone,0,1,1,2025-03-04,authorized,0,Agera,3,1,33879.0,major,hTkuo9eQmE
+2023,McLaren,Green,0,V12,1586,1106,1986,2.64,204,2,dual-clutch,RWD,Middle East,8128,1,leather,carbon-ceramic,Pirelli,0,0,1,2024-12-29,none,2,GT,5,0,,,848jfudVh1
+2022,Koenigsegg,White,0,V12,996,1196,2092,2.66,255,4,manual,RWD,Asia,5789,2,carbon_fiber,carbon-ceramic,Continental,0,0,1,2025-07-08,authorized,0,Regera,1,1,97832.0,major,WW56dgyP2q
+2022,Aston Martin,Red,0,Hybrid,1514,783,1561,3.08,222,4,manual,AWD,Asia,15084,3,carbon_fiber,carbon-ceramic,Pirelli,1,0,1,2025-04-30,independent,0,Valhalla,4,1,77371.0,minor,8rgKAkpPXo
+2023,Bugatti,Green,1,W16,744,1159,2198,2.56,261,4,dual-clutch,AWD,Asia,19568,3,carbon_fiber,steel,Michelin,1,0,1,2025-05-05,none,0,Chiron,5,0,,,4XL6UQj52P
+2023,Pagani,Black,1,V12,563,628,1435,2.23,212,2,manual,AWD,Asia,8618,3,leather,steel,Bridgestone,0,0,1,2025-04-07,authorized,0,Zonda,4,1,27427.0,minor,nldTll8PjE
+2024,Bugatti,Blue,0,Electric,1304,1194,2274,2.92,258,2,dual-clutch,RWD,Asia,18929,3,suede,carbon-ceramic,Goodyear,0,0,1,2025-05-09,authorized,0,Chiron,1,0,,,b7A7jpiDUj
+2025,Lamborghini,White,0,V10,1431,1074,1550,2.0,227,2,automatic,RWD,Europe,1315,1,alcantara,steel,Pirelli,0,0,0,2025-04-28,none,0,Aventador,0,1,10978.0,totaled,NVIobMX3rV
+2021,Koenigsegg,Blue,0,Electric,661,1002,1616,3.52,205,2,dual-clutch,RWD,Middle East,6489,1,carbon_fiber,carbon-ceramic,Goodyear,0,0,1,2024-07-14,independent,0,Regera,3,0,,,E7kJHR31CH
+2023,Bugatti,Black,1,V12,1568,1122,2042,3.5,260,2,manual,AWD,North America,8702,2,leather,carbon-ceramic,Goodyear,0,0,0,2024-12-03,authorized,0,Chiron,0,0,,,I2seyHdySe
+2022,Koenigsegg,Orange,0,V12,524,665,1943,3.1,260,2,manual,AWD,Europe,8632,3,leather,carbon-ceramic,Bridgestone,1,0,1,2024-10-03,none,0,Jesko,1,1,36223.0,major,MYRxjhFNFd
+2022,Ferrari,Yellow,0,V10,799,1038,2205,3.5,244,2,dual-clutch,AWD,Middle East,5865,1,alcantara,carbon-ceramic,Pirelli,0,0,0,2024-09-12,independent,0,Roma,0,0,,,7Z59DyN3LP
+2023,Ferrari,Black,0,V8,573,1193,1212,3.25,211,2,dual-clutch,AWD,Asia,6122,2,suede,carbon-ceramic,Bridgestone,1,0,0,2024-11-07,none,0,Portofino,0,0,,,DhK7VfWP7H
+2021,Bugatti,Yellow,0,V8,651,470,2080,3.39,234,2,dual-clutch,AWD,Middle East,2769,2,suede,steel,Goodyear,0,0,0,2024-10-25,authorized,0,Chiron,0,0,,,R0VeDUIhAE
+2025,Ferrari,Black,1,V10,1080,490,2005,2.13,261,2,dual-clutch,RWD,Asia,6371,1,leather,steel,Pirelli,0,1,0,2024-11-20,authorized,0,SF90,0,1,10123.0,totaled,9oKqRb4vL1
+2022,Bugatti,Blue,0,V8,591,1005,1412,3.76,204,2,automatic,AWD,Asia,19428,1,alcantara,steel,Goodyear,0,0,0,2024-11-13,independent,0,Chiron,0,0,,,kM8AJlP3Xs
+2025,Koenigsegg,Black,1,V12,1371,475,1469,3.29,265,2,manual,RWD,Middle East,10849,3,suede,steel,Goodyear,0,1,1,2024-08-04,authorized,0,Regera,5,1,24416.0,major,enrQLaLXBO
+2025,Aston Martin,Green,1,V8,1246,1015,2183,3.22,267,2,manual,AWD,North America,15163,1,alcantara,carbon-ceramic,Pirelli,0,0,0,2025-05-02,authorized,0,Valhalla,0,1,22428.0,major,UCbAznl1dW
+2024,Aston Martin,White,0,V12,1327,844,2263,2.77,264,2,dual-clutch,RWD,Asia,13077,1,alcantara,steel,Continental,0,1,1,2025-03-30,authorized,1,Vantage,4,0,,,A1itIBbCas
+2022,Bugatti,White,1,W16,1184,596,1973,2.06,265,4,dual-clutch,RWD,Asia,11799,1,leather,steel,Bridgestone,0,1,0,2025-06-04,independent,1,Veyron,0,0,,,ezWkK79R54
+2021,Bugatti,Red,1,Electric,871,583,1380,3.8,240,2,dual-clutch,AWD,Europe,8587,2,alcantara,carbon-ceramic,Michelin,0,0,0,2024-09-06,authorized,0,Chiron,0,0,,,uSAyapZAgZ
+2020,Ferrari,Silver,1,V8,1565,476,2216,3.97,226,2,automatic,RWD,Middle East,17211,1,alcantara,steel,Goodyear,0,0,1,2025-01-26,authorized,0,F8 Tributo,3,0,,,axciUH4PfP
+2024,McLaren,Green,1,W16,1299,847,1305,3.62,204,2,automatic,RWD,Middle East,7828,2,alcantara,steel,Bridgestone,0,0,0,2024-08-11,independent,0,600LT,0,0,,,Ed7MjAOtcC
+2024,Bugatti,White,1,Hybrid,1224,696,2032,3.83,204,4,dual-clutch,RWD,Middle East,7331,2,carbon_fiber,steel,Bridgestone,1,0,0,2025-02-08,authorized,0,Chiron,0,0,,,xWZTJySszT
+2020,Bugatti,Orange,0,V8,1110,787,1686,2.24,212,2,manual,RWD,Europe,11782,1,alcantara,steel,Pirelli,0,0,1,2025-01-28,authorized,0,Chiron,3,1,11752.0,totaled,0gclfk04xt
+2024,Lamborghini,White,1,W16,619,721,1603,2.26,208,2,automatic,RWD,Middle East,19388,2,alcantara,carbon-ceramic,Pirelli,0,0,0,2025-01-26,independent,2,Urus,0,1,37637.0,minor,aEm8ZLLlX1
+2024,Lamborghini,Yellow,0,V10,1040,820,1589,3.76,247,2,manual,RWD,Middle East,14491,3,leather,carbon-ceramic,Pirelli,0,0,0,2024-11-27,authorized,0,Huracan,0,0,,,thpqHldH83
+2024,Pagani,Green,0,W16,547,945,1807,2.12,231,2,automatic,RWD,Asia,17175,3,suede,steel,Bridgestone,0,0,0,2024-10-02,independent,0,Huayra,0,0,,,nCHPIPEdvQ
+2022,Ferrari,Blue,0,V12,1300,1033,2199,2.19,235,4,dual-clutch,RWD,North America,16886,2,suede,carbon-ceramic,Pirelli,1,0,0,2025-03-02,authorized,0,Portofino,0,0,,,lvqXWzRHzj
+2022,McLaren,Blue,0,V10,1508,705,1322,3.63,214,2,dual-clutch,RWD,North America,12084,1,alcantara,steel,Michelin,0,0,0,2024-11-20,authorized,0,P1,0,1,75070.0,minor,oDh8AgBbJS
+2023,Aston Martin,Yellow,0,V10,538,745,1988,3.11,208,2,manual,AWD,Europe,14663,1,leather,steel,Bridgestone,1,0,1,2025-04-25,independent,0,Valhalla,3,0,,,bDjHGQL9v8
+2023,Bugatti,White,0,V12,972,1114,1236,2.78,215,2,dual-clutch,AWD,Middle East,18432,2,leather,steel,Pirelli,0,0,0,2024-12-18,none,0,Chiron,0,0,,,lQhhMPzcsD
+2022,Aston Martin,Black,1,V8,823,1040,1909,3.11,205,2,manual,RWD,Europe,5479,1,alcantara,carbon-ceramic,Goodyear,1,0,0,2024-12-21,authorized,0,DB11,0,0,,,fIqp2aZPgK
+2024,Bugatti,Yellow,1,V10,551,1124,1966,3.76,232,2,dual-clutch,AWD,North America,19058,2,alcantara,carbon-ceramic,Bridgestone,1,0,1,2024-08-18,independent,0,Chiron,1,0,,,EMdA5QSbZq
+2021,Ferrari,Blue,0,V8,1447,1049,1702,3.51,241,2,dual-clutch,RWD,Europe,11600,3,suede,steel,Continental,0,0,0,2024-08-16,authorized,0,Roma,0,0,,,afEQxpO7aC
+2020,Pagani,Orange,0,Electric,1432,660,2116,3.38,258,2,manual,AWD,Asia,14604,2,suede,carbon-ceramic,Continental,1,0,0,2025-01-12,authorized,0,Zonda,0,0,,,ruMFPLngH7
+2023,Pagani,Orange,0,W16,635,745,1796,3.95,235,4,dual-clutch,AWD,Asia,19886,2,suede,carbon-ceramic,Bridgestone,1,0,1,2025-06-30,authorized,0,Huayra,1,0,,,uSBTYEizYl
+2024,Lamborghini,Red,1,W16,668,1083,1291,3.04,233,2,automatic,AWD,Asia,19994,3,alcantara,carbon-ceramic,Bridgestone,0,0,0,2024-09-03,none,0,Huracan,0,0,,,7Hng2CmSay
+2023,Aston Martin,Blue,0,V12,1016,1058,1299,2.01,201,2,dual-clutch,AWD,Middle East,12236,3,suede,carbon-ceramic,Continental,0,1,0,2025-07-08,authorized,0,DB11,0,0,,,wMin5HBUG1
+2025,Ferrari,Black,0,V12,859,548,2176,2.86,212,2,manual,AWD,Asia,18554,2,leather,steel,Goodyear,0,0,1,2025-01-15,authorized,0,SF90,3,0,,,l5kw9mpnla
+2021,Pagani,Blue,1,Hybrid,567,817,1885,2.19,242,2,dual-clutch,RWD,Europe,12839,3,carbon_fiber,steel,Goodyear,1,0,1,2025-07-01,independent,0,Zonda,2,1,5183.0,totaled,P3GyddmkdS
+2025,Pagani,Yellow,1,W16,980,428,1593,2.23,256,2,automatic,RWD,Asia,17626,3,carbon_fiber,steel,Goodyear,0,0,0,2025-03-02,authorized,0,Zonda,0,0,,,d9LxBmleE1
+2024,Aston Martin,Red,0,Electric,720,1013,1793,2.51,206,2,dual-clutch,RWD,Middle East,1439,1,carbon_fiber,steel,Michelin,0,1,1,2024-11-18,authorized,0,DB11,4,0,,,ua3sMSZQnj
+2022,McLaren,Blue,1,V12,760,862,2033,2.76,258,2,dual-clutch,RWD,Asia,9401,3,leather,steel,Michelin,0,1,0,2025-02-23,authorized,0,P1,0,0,,,kLLJBwgw3N
+2021,Lamborghini,Yellow,1,Electric,765,1165,2085,2.96,258,2,automatic,RWD,Asia,11827,3,carbon_fiber,carbon-ceramic,Goodyear,0,0,0,2024-08-04,none,0,Aventador,0,0,,,anmxc890PH
+2023,Lamborghini,Silver,0,Hybrid,1176,1185,2204,2.34,250,2,dual-clutch,RWD,Middle East,3276,2,alcantara,carbon-ceramic,Continental,0,0,0,2024-11-17,authorized,0,Huracan,0,0,,,z0Sr145GIj
+2024,Lamborghini,Yellow,0,V12,1579,960,1704,2.62,202,2,dual-clutch,AWD,Middle East,12623,3,alcantara,steel,Michelin,0,0,0,2024-11-15,none,0,Huracan,0,0,,,IVfUVZgu51
+2025,Koenigsegg,Silver,0,V10,1353,588,2340,2.55,226,2,manual,RWD,Asia,8581,2,carbon_fiber,steel,Pirelli,0,0,0,2025-02-22,authorized,0,Agera,0,0,,,OBr1aNILha
+2024,Pagani,Yellow,1,Hybrid,907,464,1989,2.73,253,2,manual,RWD,North America,6447,1,carbon_fiber,steel,Michelin,1,0,1,2025-06-24,authorized,0,Zonda,3,0,,,3bkcIaQT7g
+2020,Bugatti,Red,0,V8,968,858,1690,2.22,263,2,manual,AWD,Asia,15249,2,suede,steel,Continental,0,0,1,2024-10-12,none,0,Veyron,1,1,50542.0,totaled,D7zj1NUV8e
+2020,Koenigsegg,Yellow,0,W16,1261,1075,1541,2.79,233,2,manual,AWD,Europe,15184,2,leather,carbon-ceramic,Continental,0,0,1,2024-10-20,independent,0,Regera,1,0,,,BNmoWZlHrs
+2025,Pagani,Orange,1,V8,742,623,1669,3.11,222,2,automatic,AWD,Middle East,8174,1,suede,carbon-ceramic,Bridgestone,0,0,0,2024-12-27,authorized,0,Huayra,0,0,,,NNKmltSlc4
+2020,Pagani,Red,0,Hybrid,1013,875,1333,2.19,247,2,manual,AWD,Asia,18086,1,leather,steel,Continental,0,0,1,2025-02-07,independent,0,Zonda,4,0,,,YexQt4SfHx
+2022,Aston Martin,Green,1,W16,1074,725,2077,3.04,254,2,manual,RWD,North America,17919,3,suede,steel,Goodyear,1,1,1,2024-12-24,authorized,2,Valhalla,4,0,,,ggWe1D1xP4
+2024,Ferrari,Orange,1,Hybrid,1165,918,1876,3.51,216,2,dual-clutch,RWD,Asia,9989,2,alcantara,carbon-ceramic,Continental,0,0,0,2024-10-09,independent,0,488 GTB,0,0,,,cXVg4OWy47
+2024,Aston Martin,Silver,1,V12,1266,972,1411,2.02,261,2,automatic,AWD,Europe,5067,2,leather,steel,Michelin,1,0,0,2024-10-21,independent,0,Vantage,0,0,,,oltfy2VxeJ
+2023,Lamborghini,Black,0,V8,953,591,1784,2.1,260,2,automatic,RWD,Middle East,4321,2,carbon_fiber,steel,Michelin,1,0,0,2024-11-10,authorized,0,Sian,0,0,,,hi19YrWrfk
+2022,Lamborghini,Black,1,Hybrid,687,487,1556,2.93,260,2,manual,RWD,Europe,2560,1,leather,steel,Michelin,0,1,0,2024-08-13,none,1,Urus,0,0,,,QNu2zgadFF
+2020,Aston Martin,Black,0,Hybrid,1204,857,1652,3.75,243,2,dual-clutch,RWD,North America,28,2,leather,steel,Continental,1,0,0,2024-11-28,authorized,0,Valhalla,0,1,84319.0,major,IaB7LRhUM4
+2024,McLaren,Green,0,Electric,1191,557,2300,4.0,270,2,automatic,AWD,Europe,12891,3,suede,carbon-ceramic,Goodyear,0,0,1,2025-07-03,authorized,0,P1,2,1,47540.0,minor,q6ryKo2h3Z
+2020,Lamborghini,Yellow,1,Hybrid,1101,672,1736,2.19,202,2,automatic,AWD,Europe,9172,1,carbon_fiber,steel,Goodyear,0,0,0,2024-11-25,authorized,0,Urus,0,0,,,pRlbKgqSae
+2021,Pagani,Red,1,V12,834,731,1620,2.04,266,2,manual,AWD,Middle East,14950,2,suede,carbon-ceramic,Bridgestone,0,0,0,2024-11-27,none,0,Huayra,0,0,,,Jx6TQtPk0o
+2022,Ferrari,Green,0,Hybrid,956,681,1350,2.46,207,2,manual,RWD,Europe,3583,1,carbon_fiber,carbon-ceramic,Pirelli,0,0,1,2025-06-13,authorized,0,488 GTB,1,1,97466.0,totaled,44Wb6nZfz7
+2020,McLaren,Orange,0,V10,1237,1056,1702,2.93,225,2,manual,AWD,North America,5108,1,suede,steel,Goodyear,0,0,1,2025-02-02,independent,0,720S,5,1,39608.0,totaled,WRuGBRCNrK
+2022,Pagani,Black,0,V8,836,562,2087,3.14,214,2,dual-clutch,AWD,North America,9850,1,carbon_fiber,steel,Michelin,0,1,1,2024-11-13,none,0,Huayra,5,0,,,zYspnRjlXW
+2025,Pagani,White,0,V8,854,573,2147,3.95,204,2,manual,AWD,Middle East,15973,2,leather,steel,Bridgestone,0,0,0,2024-10-24,independent,0,Huayra,0,0,,,12sWvzzk3k
+2024,Koenigsegg,Black,1,V10,855,507,1942,3.78,212,2,automatic,RWD,North America,7521,2,alcantara,steel,Goodyear,0,0,1,2024-08-17,independent,0,Regera,2,1,22512.0,major,l3waWgIlwU
+2021,McLaren,Yellow,0,W16,731,700,1714,3.12,211,2,automatic,AWD,North America,6615,3,carbon_fiber,carbon-ceramic,Goodyear,0,0,0,2024-09-04,authorized,0,600LT,0,1,85148.0,major,Zq5M0pgumM
+2023,Koenigsegg,Silver,0,V12,1295,730,1534,2.72,262,2,manual,AWD,North America,10518,1,suede,steel,Pirelli,0,0,0,2025-05-27,independent,0,Agera,0,0,,,QoRhv4PHL3
+2021,Pagani,Orange,1,V10,689,543,1783,2.64,207,2,automatic,RWD,North America,5407,2,leather,steel,Pirelli,0,0,1,2024-11-28,authorized,0,Zonda,4,0,,,Wr6FAqXjFG
+2022,Pagani,Green,0,Hybrid,547,457,1407,3.15,233,2,dual-clutch,RWD,North America,9031,2,suede,carbon-ceramic,Pirelli,0,0,1,2024-12-03,none,0,Zonda,1,0,,,Q7QjtkQ4xn
+2021,Koenigsegg,White,0,Electric,1313,697,2051,3.44,221,2,manual,RWD,North America,2414,3,leather,steel,Goodyear,0,0,0,2025-03-20,authorized,0,Jesko,0,0,,,ILwfrwymqc
+2024,Ferrari,Green,1,V12,554,587,1776,2.96,249,2,automatic,RWD,North America,4426,2,leather,steel,Goodyear,0,1,1,2025-05-02,authorized,0,488 GTB,4,1,47550.0,minor,AMbLf87j9o
+2022,Ferrari,Blue,0,V10,618,839,1907,2.61,211,2,automatic,RWD,Asia,14136,2,carbon_fiber,carbon-ceramic,Michelin,0,0,1,2025-04-27,authorized,0,SF90,1,1,87045.0,minor,RGA8rvFQ7H
+2022,Koenigsegg,Orange,0,V10,1525,887,1877,3.23,221,2,manual,AWD,North America,5697,2,suede,steel,Continental,0,0,1,2025-05-05,authorized,0,Agera,2,0,,,PtwnLFqNVO
+2024,Ferrari,White,1,V8,723,789,1431,3.12,257,4,automatic,AWD,Middle East,3582,1,leather,carbon-ceramic,Pirelli,0,0,0,2024-09-17,authorized,0,Portofino,0,0,,,d67CuBKSMN
+2025,Lamborghini,Blue,0,V8,1247,419,2188,2.85,218,2,automatic,AWD,Asia,12170,3,suede,steel,Michelin,0,0,1,2025-05-15,none,0,Sian,3,0,,,8VUcpGx60I
+2020,McLaren,White,1,V8,702,611,2080,3.5,204,2,manual,RWD,North America,6551,3,leather,carbon-ceramic,Michelin,0,0,0,2025-04-03,none,0,P1,0,1,51593.0,minor,Wo0XBU2B9t
+2023,Ferrari,Orange,1,V12,510,935,1803,2.56,215,2,dual-clutch,RWD,North America,5085,3,carbon_fiber,carbon-ceramic,Bridgestone,0,0,0,2025-04-20,independent,0,Roma,0,1,41659.0,minor,UkmaGHWUi1
+2025,Pagani,Red,1,Hybrid,758,1002,1531,2.97,240,2,automatic,RWD,Middle East,9673,2,alcantara,steel,Michelin,0,0,0,2024-10-21,authorized,0,Huayra,0,0,,,LJjyJM5oor
+2025,Lamborghini,White,0,W16,797,1127,2011,3.88,218,2,dual-clutch,RWD,North America,19499,2,alcantara,carbon-ceramic,Pirelli,0,0,1,2025-05-12,authorized,0,Huracan,2,1,38552.0,minor,TtUdi5FrbR
+2021,McLaren,Black,0,V12,1168,963,1406,3.45,264,2,dual-clutch,RWD,Asia,1386,2,alcantara,steel,Continental,0,0,1,2025-06-30,none,0,GT,4,0,,,ksJoCtrXre
+2025,Ferrari,Silver,0,V8,832,1049,1560,2.78,221,2,dual-clutch,AWD,Asia,5240,1,alcantara,steel,Michelin,1,0,0,2025-02-22,authorized,0,488 GTB,0,1,75436.0,totaled,kw3sXIxVoy
+2023,Ferrari,Blue,0,V8,652,1064,1572,3.09,216,2,dual-clutch,AWD,Middle East,14832,1,carbon_fiber,steel,Goodyear,0,0,1,2025-03-19,independent,0,SF90,4,0,,,PZvw2dhN4U
+2023,McLaren,Orange,0,V12,633,619,2324,2.81,234,2,dual-clutch,AWD,North America,10397,3,carbon_fiber,steel,Goodyear,1,0,0,2025-02-13,authorized,0,600LT,0,0,,,Nzi68K80XI
+2025,Ferrari,Blue,0,Hybrid,1455,572,1743,2.23,238,2,automatic,RWD,Middle East,9472,1,carbon_fiber,steel,Michelin,1,0,0,2024-10-06,none,0,Portofino,0,0,,,PYIHPy2PYW
+2024,Koenigsegg,Green,0,Hybrid,615,400,1330,2.67,254,2,automatic,AWD,North America,1598,1,suede,steel,Pirelli,1,0,1,2025-07-04,authorized,0,Jesko,3,0,,,byZCRRweBN
+2020,McLaren,Black,1,V10,1590,867,1728,3.72,204,2,dual-clutch,RWD,Asia,14606,2,leather,steel,Continental,0,1,0,2025-06-25,authorized,0,720S,0,0,,,VItbixF0J6
+2023,McLaren,Orange,0,V10,1161,424,1277,2.92,210,2,manual,RWD,North America,18366,2,leather,steel,Continental,0,0,0,2025-04-06,independent,0,P1,0,1,81449.0,minor,yHxE8A56Wc
+2022,Pagani,Red,1,V8,1052,603,1240,3.17,239,2,dual-clutch,AWD,North America,16696,3,alcantara,carbon-ceramic,Pirelli,0,1,1,2024-08-18,authorized,0,Zonda,3,0,,,koUI3vPjci
+2025,Aston Martin,White,0,V8,1192,600,1457,2.36,203,4,manual,RWD,Asia,5236,2,alcantara,steel,Goodyear,0,0,1,2025-05-08,independent,0,DB11,3,0,,,YsBWV1xXrB
+2020,McLaren,Orange,1,W16,687,590,1489,2.71,257,2,automatic,AWD,Asia,3859,2,leather,carbon-ceramic,Goodyear,0,0,0,2024-07-10,authorized,0,720S,0,0,,,nDGewLeuFM
+2024,Aston Martin,Red,1,Hybrid,538,808,2348,3.86,264,2,manual,RWD,Asia,18548,1,leather,carbon-ceramic,Bridgestone,0,0,0,2024-09-17,independent,0,DB11,0,0,,,QytkVYQ8Si
+2025,Bugatti,Black,0,V10,979,877,1823,2.63,263,2,automatic,RWD,North America,18083,3,leather,carbon-ceramic,Michelin,1,0,0,2025-01-23,authorized,0,Chiron,0,0,,,wVHHm1VIkX
+2023,Ferrari,Orange,0,W16,1425,703,1913,2.5,266,2,manual,AWD,Middle East,1778,1,carbon_fiber,carbon-ceramic,Michelin,1,0,0,2024-10-09,independent,0,F8 Tributo,0,0,,,aIo9KcVzW7
+2025,Aston Martin,Silver,1,V8,1228,1143,1751,2.11,233,2,dual-clutch,RWD,Asia,15524,3,carbon_fiber,steel,Goodyear,0,0,0,2024-12-31,none,0,Valhalla,0,1,99712.0,totaled,MaXrFBbCV9
+2024,Pagani,White,0,Hybrid,1275,1131,1910,2.19,257,2,automatic,AWD,North America,17132,3,carbon_fiber,steel,Michelin,0,0,1,2024-12-14,none,0,Huayra,4,1,95192.0,major,lkbMxBFpnm
+2021,Aston Martin,Black,0,V8,562,977,2160,3.17,266,2,manual,AWD,Middle East,6298,2,alcantara,carbon-ceramic,Pirelli,1,0,0,2024-12-09,independent,0,DB11,0,0,,,TGBcLVN4u0
+2024,Lamborghini,Blue,0,W16,1454,935,2022,3.32,206,2,dual-clutch,AWD,Europe,18191,1,carbon_fiber,carbon-ceramic,Continental,0,0,1,2024-11-14,independent,0,Sian,2,0,,,eXGLNE7saj
+2022,Aston Martin,Blue,0,W16,596,481,1273,3.28,234,2,manual,AWD,Europe,9725,1,leather,carbon-ceramic,Bridgestone,1,0,1,2025-06-16,independent,0,Vantage,5,1,90698.0,major,T0YWBu0r3Z
+2024,Aston Martin,Blue,0,V8,1029,1002,1204,3.08,228,2,manual,AWD,North America,3796,2,alcantara,steel,Pirelli,1,0,1,2024-11-25,authorized,0,DB11,3,0,,,CGPGBvnGWv
+2020,Bugatti,Yellow,0,Electric,1224,1083,2023,2.98,224,2,manual,AWD,North America,10473,3,alcantara,steel,Pirelli,0,0,0,2024-10-20,independent,0,Chiron,0,1,87081.0,totaled,CAFuumLHe0
+2021,McLaren,Yellow,1,V8,1520,946,1317,2.14,227,2,automatic,AWD,Asia,3422,3,carbon_fiber,steel,Pirelli,0,1,1,2025-03-17,authorized,0,600LT,1,1,84212.0,totaled,t67E0hpgWS
+2025,Lamborghini,Blue,0,V10,735,945,1943,3.68,268,4,automatic,AWD,North America,2209,3,alcantara,steel,Michelin,1,0,1,2024-07-16,authorized,0,Aventador,4,0,,,a6zyTW29Mc
+2025,Aston Martin,Silver,1,Hybrid,854,661,1860,3.03,226,2,dual-clutch,AWD,Middle East,19122,3,leather,steel,Continental,0,0,0,2025-05-17,independent,0,Valhalla,0,0,,,RuS7IYhLlV
+2022,Lamborghini,Yellow,0,Hybrid,1424,576,1948,2.26,207,2,manual,RWD,North America,8483,2,alcantara,carbon-ceramic,Bridgestone,0,0,0,2024-08-10,independent,0,Aventador,0,0,,,y7axoaiVye
+2021,Lamborghini,Silver,1,V8,1583,1055,1629,2.27,237,2,manual,RWD,Middle East,12414,3,suede,steel,Goodyear,0,0,0,2024-11-04,authorized,0,Huracan,0,0,,,32GWEzbV2u
+2022,Lamborghini,Yellow,0,V12,663,614,1866,3.03,208,2,automatic,RWD,Middle East,19124,1,leather,carbon-ceramic,Pirelli,0,0,1,2024-11-08,independent,0,Urus,4,0,,,Dnn8eA4UGS
+2025,Pagani,Green,1,V8,1381,540,1358,2.49,242,2,automatic,AWD,Asia,13400,3,leather,carbon-ceramic,Pirelli,1,1,0,2024-08-23,none,0,Huayra,0,0,,,FVgL0DWPJA
+2021,Pagani,Black,0,Electric,1093,667,1880,3.84,224,2,manual,RWD,Middle East,18819,3,carbon_fiber,carbon-ceramic,Pirelli,0,1,1,2024-09-08,independent,0,Huayra,2,1,32021.0,major,e0MEMF3260
+2023,Lamborghini,Green,1,V10,1517,538,2285,3.0,265,2,manual,RWD,North America,2827,3,leather,carbon-ceramic,Goodyear,0,0,1,2025-03-04,independent,0,Huracan,2,1,33919.0,major,gZGtGKEtji
+2024,Bugatti,Silver,0,V8,1426,446,2215,3.96,216,2,manual,RWD,Middle East,19127,2,leather,steel,Michelin,1,0,0,2024-10-24,authorized,0,Veyron,0,0,,,O8fBFZguBd
+2020,Ferrari,White,0,W16,1373,459,1860,3.47,206,2,automatic,AWD,Europe,5896,3,alcantara,steel,Michelin,0,0,1,2025-06-20,none,0,Roma,3,0,,,gExoUzi8B2
+2020,Koenigsegg,Orange,0,V10,1408,960,2385,3.62,221,2,manual,RWD,Middle East,17519,2,suede,steel,Continental,0,0,0,2025-01-20,authorized,1,Jesko,0,0,,,Ai3AlpuSWK
+2023,Ferrari,Blue,1,V10,1390,963,2309,2.78,209,2,manual,AWD,North America,18094,1,alcantara,steel,Michelin,0,0,1,2024-07-31,none,0,F8 Tributo,4,1,40231.0,minor,dmzIChuOWz
+2021,Pagani,Green,0,Electric,620,460,2236,2.27,212,2,automatic,RWD,Asia,18728,3,suede,steel,Michelin,0,0,1,2025-03-30,none,0,Zonda,1,1,81239.0,totaled,ETqylUhwVO
+2024,Bugatti,Green,1,Hybrid,1465,1125,1616,3.38,241,2,automatic,AWD,North America,3503,3,leather,carbon-ceramic,Bridgestone,0,0,1,2025-06-20,independent,0,Chiron,3,0,,,2isRdweAyw
+2023,Bugatti,Yellow,0,W16,501,494,2347,2.81,227,2,automatic,AWD,North America,18742,1,alcantara,steel,Bridgestone,0,0,0,2024-12-08,none,0,Chiron,0,0,,,z007TdpNyP
+2021,McLaren,Black,0,V12,617,1031,2069,3.9,258,2,automatic,RWD,North America,16034,3,alcantara,steel,Michelin,0,0,1,2025-03-01,authorized,0,GT,2,1,56834.0,minor,Gfvam8CXch
+2024,Pagani,Black,1,V8,1138,874,2218,2.39,210,2,manual,AWD,Europe,8095,3,carbon_fiber,steel,Bridgestone,0,0,0,2025-02-20,none,0,Huayra,0,0,,,ITr1MYeqM6
+2021,Bugatti,Green,0,V12,873,1130,1815,3.25,208,2,automatic,AWD,Asia,7629,2,alcantara,carbon-ceramic,Continental,0,0,0,2024-12-08,independent,0,Veyron,0,0,,,54qrrnuZMy
+2020,Bugatti,White,0,Hybrid,611,439,2272,3.73,254,2,automatic,RWD,Europe,3058,2,suede,carbon-ceramic,Michelin,0,0,0,2024-11-24,authorized,0,Veyron,0,0,,,fvYOB1qMVW
+2024,Ferrari,Silver,0,W16,999,745,2226,2.81,204,2,manual,RWD,Middle East,16542,1,suede,steel,Bridgestone,0,0,0,2025-01-30,authorized,0,F8 Tributo,0,0,,,VxfYLzkJkl
+2020,Bugatti,Black,0,V10,1174,726,2133,3.91,268,4,dual-clutch,AWD,Middle East,15667,2,leather,carbon-ceramic,Goodyear,0,1,0,2025-01-04,independent,0,Veyron,0,0,,,yNL648MQ0j
+2020,Bugatti,Red,0,Electric,1542,836,2222,2.15,237,2,manual,AWD,Europe,11742,2,carbon_fiber,carbon-ceramic,Bridgestone,1,0,0,2024-07-11,none,0,Veyron,0,0,,,2zLG0JZJsS
+2024,Aston Martin,Red,0,Electric,1543,805,1961,3.17,265,2,manual,RWD,Asia,8421,1,carbon_fiber,carbon-ceramic,Bridgestone,0,0,0,2024-07-24,none,0,Valhalla,0,1,63465.0,minor,Dnd0GDhxyZ
+2023,Lamborghini,Blue,0,V10,1271,1143,1782,3.55,263,2,manual,AWD,Middle East,5625,1,alcantara,carbon-ceramic,Goodyear,0,1,1,2024-10-23,none,0,Urus,1,0,,,G5dWX1BFcG
+2021,Aston Martin,Green,0,Electric,1060,610,1470,2.4,224,2,manual,RWD,Asia,11600,3,leather,steel,Continental,1,0,0,2025-05-11,authorized,0,Valhalla,0,0,,,N26CjmzZhd
+2024,Ferrari,White,0,V12,653,437,2376,2.12,251,4,manual,AWD,Europe,14031,3,suede,steel,Goodyear,0,0,0,2025-02-27,authorized,0,SF90,0,0,,,ZMDkoUybjs
+2025,Ferrari,Green,0,Hybrid,1319,867,1926,2.16,237,2,manual,AWD,Middle East,1680,3,carbon_fiber,carbon-ceramic,Continental,0,0,0,2024-08-20,independent,2,SF90,0,1,61872.0,major,rN13bDm2tj
+2020,Lamborghini,Red,0,V10,883,716,1633,2.64,218,2,manual,RWD,Europe,17679,3,leather,carbon-ceramic,Goodyear,0,0,1,2025-02-04,independent,0,Aventador,2,1,24442.0,major,3izsnTHT8w
+2021,Ferrari,Silver,0,V8,1303,610,1721,2.45,224,2,dual-clutch,RWD,Middle East,14630,2,alcantara,carbon-ceramic,Continental,0,0,1,2024-07-25,authorized,0,488 GTB,3,1,17280.0,major,JDzJ9axRDd
+2024,McLaren,White,1,V8,1180,482,1811,2.45,247,2,manual,AWD,North America,2984,2,carbon_fiber,carbon-ceramic,Continental,0,0,1,2025-01-11,independent,0,720S,1,0,,,MeYEOc6SJ2
+2023,Koenigsegg,Silver,0,W16,678,755,2068,2.92,260,2,manual,AWD,Asia,13641,1,alcantara,carbon-ceramic,Pirelli,1,0,1,2024-08-28,independent,0,Agera,2,1,28791.0,major,ZcvNukNGYt
+2024,McLaren,Blue,1,Hybrid,1114,1029,2145,2.17,234,2,manual,RWD,Europe,1823,1,suede,carbon-ceramic,Pirelli,0,0,0,2025-06-26,independent,1,720S,0,0,,,5y2hkZEzzi
+2024,Pagani,Black,0,Hybrid,546,938,1689,3.99,250,2,manual,AWD,North America,18712,2,suede,steel,Bridgestone,0,0,1,2025-01-31,independent,0,Huayra,4,0,,,DSkWFlI3fk
+2022,Koenigsegg,Black,0,V10,1057,608,2009,3.39,214,2,manual,RWD,Europe,13748,3,leather,carbon-ceramic,Goodyear,1,0,0,2024-10-26,independent,0,Agera,0,0,,,emJ9ohbaT1
+2025,Ferrari,Black,0,Hybrid,682,1036,1945,2.06,248,2,dual-clutch,RWD,Europe,13375,3,alcantara,steel,Continental,1,0,0,2024-08-27,authorized,0,Roma,0,0,,,60cP2xzIi4
+2021,Ferrari,Red,0,V12,853,675,1635,3.38,229,2,automatic,RWD,Asia,9204,3,leather,steel,Pirelli,0,0,1,2024-11-28,none,0,F8 Tributo,4,0,,,9YtVPQo2c3
+2024,McLaren,Silver,0,Hybrid,986,891,1885,3.58,220,2,automatic,RWD,Europe,13540,3,suede,steel,Bridgestone,0,0,0,2025-05-06,authorized,0,600LT,0,0,,,K912kMcklX
+2020,Pagani,White,1,V10,715,697,1416,2.38,240,2,manual,RWD,Asia,15606,1,carbon_fiber,carbon-ceramic,Bridgestone,0,0,1,2024-08-19,independent,0,Huayra,3,0,,,sPcbToNedV
+2020,Aston Martin,Red,0,V10,1391,983,1239,3.68,202,2,dual-clutch,RWD,Europe,5211,2,suede,carbon-ceramic,Bridgestone,0,0,1,2024-12-11,authorized,0,Valhalla,1,1,29251.0,minor,ZOu2b2QOtK
+2022,Pagani,Orange,0,V12,1351,457,1897,3.22,223,2,dual-clutch,AWD,Middle East,2894,1,leather,steel,Pirelli,0,1,0,2025-05-30,independent,0,Zonda,0,0,,,JLT74IZPeQ
+2020,McLaren,Yellow,0,Electric,1328,695,1991,3.64,216,2,dual-clutch,RWD,North America,19079,2,alcantara,steel,Michelin,0,0,0,2025-01-20,none,0,GT,0,0,,,bzzq3Xbw2g
+2024,McLaren,White,1,V12,1532,858,2308,3.43,207,2,automatic,AWD,Middle East,4096,3,suede,carbon-ceramic,Bridgestone,0,1,0,2024-10-26,authorized,0,600LT,0,1,29754.0,totaled,ZDCLuTqeOY
+2021,Koenigsegg,Orange,0,V10,1508,1030,1879,3.41,205,2,automatic,AWD,Asia,5410,1,leather,carbon-ceramic,Michelin,0,0,0,2025-01-25,none,0,Jesko,0,0,,,YpoQ37N3vo
+2022,Lamborghini,Blue,0,V10,1507,795,1603,2.32,208,2,dual-clutch,RWD,Asia,17653,2,alcantara,carbon-ceramic,Michelin,1,0,0,2024-08-25,authorized,0,Sian,0,0,,,mQVrfZUlp3
+2025,Pagani,Silver,0,V10,1233,773,2252,2.63,214,2,automatic,RWD,North America,1263,2,leather,carbon-ceramic,Michelin,1,0,1,2025-02-04,authorized,0,Huayra,2,0,,,UeCb9pAmc4
