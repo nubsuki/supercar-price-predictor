@@ -71,6 +71,9 @@ models = {
 }
 
 # Train
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
 results = []
 fitted_pipelines = {}
 
@@ -78,11 +81,11 @@ for name, model in models.items():
     pipe = Pipeline(steps=[('preprocessor', preprocessor),
                           ('model', model)])
     print(f"\nTraining {name}...")
-    pipe.fit(X, y)
+    pipe.fit(X_train, y_train)
 
-    y_pred = pipe.predict(X)
-    rmse = float(np.sqrt(mean_squared_error(y, y_pred)))
-    r2 = float(r2_score(y, y_pred))
+    y_pred = pipe.predict(X_test)
+    rmse = float(np.sqrt(mean_squared_error(y_test, y_pred)))
+    r2   = float(r2_score(y_test, y_pred))
 
     results.append({"Model": name, "RMSE": rmse, "R2": r2})
     fitted_pipelines[name] = pipe
