@@ -107,7 +107,7 @@ final_pipe = Pipeline(steps=[('preprocessor', preprocessor),
                              ('model', final_model)])
 final_pipe.fit(X, y)
 
-# SAVE THE MODEL
+# Save the model
 print("\nSaving the trained model...")
 joblib.dump(final_pipe, 'supercar_price_model.pkl')
 
